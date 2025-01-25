@@ -1,0 +1,5 @@
+reddit = praw.Reddit(
+    client_id="FhBxNA6ffJLwbIzvANW0OA",
+    client_secret="G_ZiIfzNayDoIFChj5TTw2CAaezY3Q",
+    user_agent="AbleFloor5710/1.0 by u/AbleFloor5710"
+)
