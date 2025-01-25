@@ -2,6 +2,7 @@ import praw
 import csv
 import time
 from datetime import datetime
+import json
 
 # Initialize Reddit API credentials
 reddit = praw.Reddit(
@@ -16,18 +17,27 @@ batch_size = 5  # Number of posts to fetch per batch
 wait_time = 5  # Time to sleep between batches (in seconds)
 output_file = "reddit_comments.csv"
 date_limit = datetime(2023, 12, 31)  # Stop fetching posts older than this date
+cursor_file = "reddit_cursor.json"
 
-# Open the CSV file for writing
-with open(output_file, mode="w", newline="", encoding="utf-8") as file:
+try:
+    with open(cursor_file, "r") as f:
+        resume_data = json.load(f)
+        after = resume_data.get("after", None)
+        print(f"Resuming from after={after}")
+except FileNotFoundError:
+    after = None  # Start fresh if no cursor file is found
+
+# Open the CSV file for appending (if resuming) or writing (if fresh start)
+with open(output_file, mode="a" if after else "w", newline="", encoding="utf-8") as file:
     writer = csv.writer(file)
     
-    # Write the header row
-    writer.writerow(["Post Title", "Post Author", "Post Upvotes", "Post URL", "Post Content", 
-                     "Comment Author", "Comment Body", "Comment Upvotes"])
+    # Write the header row only if starting fresh
+    if not after:
+        writer.writerow(["Post Title", "Post Author", "Post Upvotes", "Post URL", "Post Content", 
+                         "Comment Author", "Comment Body", "Comment Upvotes"])
     
     # Fetch posts in batches
     subreddit = reddit.subreddit(subreddit_name)
-    after = None  # Used for pagination
     fetching = True
 
     while fetching:
@@ -66,6 +76,10 @@ with open(output_file, mode="w", newline="", encoding="utf-8") as file:
             # Save the pagination cursor
             after = post.name
 
+        # Save the current cursor to the cursor file
+        with open(cursor_file, "w") as f:
+            json.dump({"after": after}, f)
+        
         if fetching:
             print(f"Batch completed. Sleeping for {wait_time} seconds...")
             time.sleep(wait_time)  # Sleep before fetching the next batch

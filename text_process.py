@@ -27,12 +27,12 @@ def preprocess_text(comment):
 # cleaned_comment = preprocess_text(example_comment)
 # print("Cleaned Comment:", cleaned_comment)
 
-file_comment = pd.read_csv("comment_reddit.csv")
+file_comment = pd.read_csv("reddit_comments.csv")
 print(file_comment.head())
 cleaned_data = pd.DataFrame()
 cleaned_related_parts = pd.DataFrame();
-cleaned_data['related_parts'] = file_comment['related_parts']
-cleaned_data['comments'] = file_comment['comment_text'].apply(preprocess_text)
+# cleaned_data['related_parts'] = file_comment['related_parts']
+cleaned_data['comments'] = file_comment['Comment Body'].apply(preprocess_text)
 
 # file_comment['cleaned_text'] = file_comment['comment_text'].apply(preprocess_text)
 
