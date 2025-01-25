@@ -1,29 +1,44 @@
 import praw
+import csv
 
 # Initialize Reddit API credentials
 reddit = praw.Reddit(
-    client_id="your_client_id",           # Replace with your client ID
-    client_secret="your_client_secret",   # Replace with your client secret
-    user_agent="your_user_agent"          # Replace with a descriptive user agent
+    client_id="FhBxNA6ffJLwbIzvANW0OA",
+    client_secret="G_ZiIfzNayDoIFChj5TTw2CAaezY3Q",
+    user_agent="AbleFloor5710/1.0 by u/AbleFloor5710"
 )
 
 # Fetch a specific subreddit and post
-subreddit_name = "learnpython"
-post_id = "post_id_here"  # Example: '12345abc'
+subreddit_name = "GadgetsIndia"
+# post_id = "1i9g6nr"  # Example: '12345abc'
+post_id = reddit.subreddit()
 
 # Get the subreddit
 subreddit = reddit.subreddit(subreddit_name)
 
 # Fetch a post by ID
-post = reddit.submission(id=post_id)
+# post = reddit.submission(id=post_id)
+post = []
 
 # Print post details
-print(f"Title: {post.title}")
-print(f"Author: {post.author}")
-print(f"Upvotes: {post.score}")
-print(f"URL: {post.url}")
-print(f"Content: {post.selftext}")
+for post in subreddit.hot(limit=50):
+     posts.append({
+        "Title": post.title,
+        "Author": str(post.author),
+        "Upvotes": post.score,
+        "Comments Count": post.num_comments,
+        "Post URL": post.url,
+        "Content": post.selftext,
+    })
 
+save_file = reddit_comments.csv
+
+with open(csv_file, mode="w", newline="",encoding="utf-8") as file:
+    writer = csv.DictWriter(filem fieldnames=["Title", "Author", "Upvotes", "Comments Count", "Post URL", "Content"])
+    writer.writerheader()
+    wirter.wirterows(posts)
+
+print(f"saved {len(posts)} post to {save_file}")
 # Fetch comments
 post.comments.replace_more(limit=0)  # Flatten comment tree
 for comment in post.comments.list():
