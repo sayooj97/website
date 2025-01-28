@@ -1,5 +1,5 @@
 import pandas as pd
-text = pd.read_csv("reddit_comments.csv")
-df = text[["Post Title","Post Upvotes"]]
+text = pd.read_csv("cleaned_text.csv")
+df = text[['comments','upvotes']]
 print(df.to_string())
-# print(text.columns)
+# print(text.columns)z

@@ -8,6 +8,8 @@ from nltk.stem import WordNetLemmatizer
 stop_words = set(stopwords.words('english'))
 
 def preprocess_text(comment):
+    # if not isinstance(comment,str):
+    #     return comment
     # Lowercase the text
     comment = comment.lower()
     # Remove punctuation and special characters
@@ -31,8 +33,9 @@ file_comment = pd.read_csv("reddit_comments.csv")
 print(file_comment.head())
 cleaned_data = pd.DataFrame()
 cleaned_related_parts = pd.DataFrame();
-# cleaned_data['related_parts'] = file_comment['related_parts']
+# cleaned_data['upvotes'] = file_comment['Comment Upvotes']
 cleaned_data['comments'] = file_comment['Comment Body'].apply(preprocess_text)
+cleaned_data.dropna(subset=['comments'], inplace=True)
 
 # file_comment['cleaned_text'] = file_comment['comment_text'].apply(preprocess_text)
 

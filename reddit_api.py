@@ -11,77 +11,74 @@ reddit = praw.Reddit(
     user_agent="AbleFloor5710/1.0 by u/AbleFloor5710"
 )
 
-# Define parameters
+# Parameters
 subreddit_name = "buildapc"
-batch_size = 5  # Number of posts to fetch per batch
-wait_time = 5  # Time to sleep between batches (in seconds)
+batch_size = 5
+wait_time = 10
 output_file = "reddit_comments.csv"
-date_limit = datetime(2023, 12, 31)  # Stop fetching posts older than this date
+date_limit = datetime(2018, 12, 31)
 cursor_file = "reddit_cursor.json"
 
+# Load the cursor (if any) for resuming
 try:
     with open(cursor_file, "r") as f:
-        resume_data = json.load(f)
-        after = resume_data.get("after", None)
+        after = json.load(f).get("after", None)
         print(f"Resuming from after={after}")
 except FileNotFoundError:
-    after = None  # Start fresh if no cursor file is found
+    after = None
 
-# Open the CSV file for appending (if resuming) or writing (if fresh start)
+# Open CSV file
 with open(output_file, mode="a" if after else "w", newline="", encoding="utf-8") as file:
     writer = csv.writer(file)
-    
-    # Write the header row only if starting fresh
+    # Write the header only if starting fresh
     if not after:
-        writer.writerow(["Post Title", "Post Author", "Post Upvotes", "Post URL", "Post Content", 
+        writer.writerow(["Post Title", "Post Author", "Post Upvotes", "Post URL", 
                          "Comment Author", "Comment Body", "Comment Upvotes"])
-    
-    # Fetch posts in batches
-    subreddit = reddit.subreddit(subreddit_name)
-    fetching = True
 
+    # Fetch posts
+    fetching = True
     while fetching:
         print(f"Fetching a batch of {batch_size} posts...")
-        posts = subreddit.hot(limit=batch_size, params={"after": after})
-        
-        for post in posts:
-            # Convert post's creation time to a datetime object
-            post_date = datetime.utcfromtimestamp(post.created_utc)
-            
-            # Stop fetching if the post's date is older than the limit
-            if post_date < date_limit:
-                print(f"Stopping: Post date {post_date} is earlier than {date_limit}")
-                fetching = False
-                break
-            
-            print(f"Processing post: {post.title} (Date: {post_date})")
+        try:
+            # Fetch posts using the after parameter for pagination
+            posts = reddit.subreddit(subreddit_name).hot(limit=batch_size)
+            last_post = None
 
-            # Fetch and flatten comments
-            post.comments.replace_more(limit=0)
-            comments = []
-            for comment in post.comments.list():
-                comments.append({
-                    "Comment Author": str(comment.author),
-                    "Comment Body": comment.body,
-                    "Comment Upvotes": comment.score
-                })
-            
-            # Write post and comments to CSV
-            for comment in comments:
-                writer.writerow([
-                    post.title, str(post.author), post.score, post.url, post.selftext,
-                    comment["Comment Author"], comment["Comment Body"], comment["Comment Upvotes"]
-                ])
-            
-            # Save the pagination cursor
-            after = post.name
+            for post in posts:
+                # Get the post's date
+                post_date = datetime.utcfromtimestamp(post.created_utc)
+                
+                # Stop if post date is before the limit
+                if post_date < date_limit:
+                    print(f"Stopping: Post date {post_date} is earlier than {date_limit}")
+                    fetching = False
+                    break
+                
+                last_post = post
+                print(f"Processing post: {post.title} (Date: {post_date})")
 
-        # Save the current cursor to the cursor file
-        with open(cursor_file, "w") as f:
-            json.dump({"after": after}, f)
-        
-        if fetching:
-            print(f"Batch completed. Sleeping for {wait_time} seconds...")
-            time.sleep(wait_time)  # Sleep before fetching the next batch
+                # Fetch and write comments
+                post.comments.replace_more(limit=0)  # Flatten nested comments
+                for comment in post.comments.list():
+                    comment_title = comment.body[:50]  # Adjust the number (50) as needed for length
+                    print(f"Processing comment: {comment_title}...")
+                    writer.writerow([
+                        post.title, str(post.author), post.score, post.url,
+                        str(comment.author), comment.body, comment.score
+                    ])
 
-print(f"Saved posts and comments to {output_file}")
+            # Update the cursor
+            if last_post:
+                after = last_post.name
+                with open(cursor_file, "w") as f:
+                    json.dump({"after": after}, f)
+
+        except Exception as e:
+            print(f"Error occurred: {e}. Retrying after {wait_time} seconds...")
+            time.sleep(wait_time)
+            continue
+
+        print(f"Batch completed. Sleeping for {wait_time} seconds...")
+        time.sleep(wait_time)
+
+print(f"Data saved to {output_file}")
