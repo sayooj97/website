@@ -33,7 +33,7 @@ file_comment = pd.read_csv("reddit_comments.csv")
 print(file_comment.head())
 cleaned_data = pd.DataFrame()
 cleaned_related_parts = pd.DataFrame();
-# cleaned_data['upvotes'] = file_comment['Comment Upvotes']
+# cleaned_data['full_comment'] = file_comment['Comment Body']
 cleaned_data['comments'] = file_comment['Comment Body'].apply(preprocess_text)
 cleaned_data.dropna(subset=['comments'], inplace=True)
 

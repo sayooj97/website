@@ -1,0 +1,994 @@
+,Post Title,Comment Body
+0,Help me decide whether or not to build this!,Looks good to me!
+1,How would you recommend upgrading my gfs pc?,"Budget and rough location.
+
+What games does she play?"
+2,How would you recommend upgrading my gfs pc?,"For gaming? I would upgrade ram to 32gb and switch to a 4060. No need to upgrade the power supply with Nvidia. The 6700xt will stress the current psu .No mechanical hard drives, right? Running windows 11?
+
+Your first line makes me nervous - running into some issues. What issues? If you are having hardware issues you need to sort those out first."
+3,How would you recommend upgrading my gfs pc?,b580?
+4,How would you recommend upgrading my gfs pc?,"That's a decent plan.
+
+6700 XT is a midrange GPU from 2021. I expect it'll be good for another 4 years, considering the GTX 1070 lasted till now. Get a good quality 650 watt PSU to go with it.
+
+When you replace the CPU and motherboard, you'll also want 32GB of DDR5 because that works well with new CPUs."
+5,How would you recommend upgrading my gfs pc?,"Great thank you, it's gpu issues but i'm not certain about them. Either way we will be upgrading her pc in time and whatever needs priority will come first. We were just uncertain about which parts first / have to be purchased together and you answered that, thank you!"
+6,How would you recommend upgrading my gfs pc?,"I misread your post on my phone thinking you had a 10th gen intel cpu. A 7th gen cpu is not windows 11 compatible so that pc is a dead end. Sell or part it out and move on, don't soak a lot of money into it. If your current gpu is failing, swap in a 4060 and game on it for a month to make sure it is stable. Then you can sell the 1070 for parts and figure out your next step.
+
+Either build or buy a new PC. You can sell or part out the old one with the confidence that everything is working, and you have a new 4060 to sell with the old or keep for a new build."
+7,GPU pushes 98% usage while gaming. Also when capping FPS in Warzone.,"Normal. 
+
+You WANT your GPU hitting as close to 100% as often as possible when gaming. 
+
+If you're streaming, then its even more reason why you want this to be happening. 
+
+The nvenc encoder is taking already rendered frames from the frame buffer to encode it into a more efficient format that makes it easier to stream HD quality without taking a huge hit in performance to the GPU. It does take SOME processing from the GPU die to do it - but how much is negligible, people used to say it lower gaming performance by as much as 30% but these days you're not likely to even notice a 5% reduction when streaming with the nvenc encoder. 
+
+
+You're chasing a solution to a problem that doesn't actually exist"
+8,GPU pushes 98% usage while gaming. Also when capping FPS in Warzone.,"I don't know much about OBS, but are you doing the encoding on the CPU or GPU?"
+9,GPU pushes 98% usage while gaming. Also when capping FPS in Warzone.,"Thanks a lot for your reply. I hear you, and just to clarify, I get around 150-170 streaming, and close to 300 when not streaming. 
+
+A few of my friends with a 4070 GPU still pushes more FPS than I do, with the exact same settings inside OBS, and they still get around 25-30% better performance than I do. 
+
+Normally, you want the GPU to use between 70 to 90% when gaming, rest should be useful for, for example streaming and the encoding? Or am I totally wrong with saying this?"
+10,GPU pushes 98% usage while gaming. Also when capping FPS in Warzone.,"The GPU. 
+
+Settings > Output > Encoder settings is set to NVIDIA NVENC."
+11,Ryzen 7 9800x3d / RTX 5080 Build,"This is a very powerful build that will slay most games. The only tweak I would make is to upgrade to the Samsung 990 Pro. At this tier, you might as well get the better SSD."
+12,Ryzen 7 9800x3d / RTX 5080 Build,"Most importantly, change the monitor to 4k. or at least a good 1440p monitor, let me explain;
+
+\- its a IPS screen with 1000:1 contrast, 3x lower than VA. It will feel like gaming on a potato, while the rest of ur build is iced out
+
+\- It cant go brigther than 400 cd/m2, not good enough for HDR (TVs have double that for full screen, and not just peaks)
+
+\- I recommended investing into a mini-led monitor, with 1000 \~ 2000 dimming zones for good HDR & contrast or the new qd oled gen 3 / gen 4
+
+if u dont want a expensive monitor for whatever reason, use a TV instead. theyre bright for HDR, they have built-in upscalers that monitors dont have (to turn 1080p into 4k near perfect), just not low latency for competitive gaming
+
+Id pick corsair RM 850 for power supply, but thermal take is good too
+
+Memory id pick corsair DDR5 2x16GB"
+13,Ryzen 7 9800x3d / RTX 5080 Build,I am considering a similar build.  Main hitch for me is when and where I will be able to find that GPU for that price.  Thoughts?
+14,Ryzen 7 9800x3d / RTX 5080 Build,"990 pro is pcie 4 unfortunately. not that it matters rn, but not ""future proof"""
+15,Ryzen 7 9800x3d / RTX 5080 Build,"Do you have any recommendations for good 27"" 1440p monitors? I'm definitely prioritizing latency and refresh rate over resolution but I did think the ones I chose were considered pretty good. Isn't IPS preferred over VA due to ghosting?"
+16,Ryzen 7 9800x3d / RTX 5080 Build,Check out the website/app hotstock. You can set up alerts that notify you the instant a certain product is purchasable at a certain price.
+17,Ryzen 7 9800x3d / RTX 5080 Build,"Yes, but the 990 Evo only uses 2 PCIe 5.0 lanes, which is the same interface speed. Regardless, the 990 Pro is faster."
+18,Ryzen 7 9800x3d / RTX 5080 Build,"Use this website [https://www.rtings.com/monitor/reviews/gigabyte/m27q-x](https://www.rtings.com/monitor/reviews/gigabyte/m27q-x)
+
+IPS & VA are still good options, but considered ""budget"" nowadays. IPS usually brighter & what you said earlier, but new VA models close the gap, sometimes even better. Look for recently released models, 2020+
+
+  
+The more expensive monitors would be mini-led & qd oled. I noticed you want a dual screen setup, i highly recommend you use ur old monitor for secondary & invest 1000$ into a single quality monitor instead. 
+
+You're gonna appreciate a monitor that has it all in the long run. a good investment if u plan to use it for 5\~10 years. QD-OLEDs are much better nowadays, but u have to properly configure a few settings against burn-in (as with any OLED tech). Basically, use LCD monitor for work, chat apps and such, and QD-OLED for gaming, movies, youtube etc.
+
+Here you can find good monitors, and look them up on [rtings.com](http://rtings.com) if u want more details:
+
+[https://www.displayninja.com/qd-oled-monitor-list/](https://www.displayninja.com/qd-oled-monitor-list/)
+
+[https://www.displayninja.com/mini-led-monitor-list/](https://www.displayninja.com/mini-led-monitor-list/)"
+19,Ryzen 7 9800x3d / RTX 5080 Build,"How much faster are we talking? And on a similar note, is m.2 nvme the best choice in general?"
+20,Ryzen 7 9800x3d / RTX 5080 Build,"Thanks for your help, I think I'm going to go with a ROG Strix OLED XG27ACDNG. Maybe two if I can convince the wife 😅"
+21,Ryzen 7 9800x3d / RTX 5080 Build,About 15% faster in random workloads. M.2 is definitely the way to go.
+22,Ryzen 7 9800x3d / RTX 5080 Build,"I noticed 990 evo is DRAM-less. Its best to get one that has DRAM, even if some call it a niche, you can read more about it.
+
+Yes. the newer models like 990 pro, have very high 4k random read / write compared to older models, which is important for gaming and other tasks too. Its best to run OS on m.2 nvme + demanding new games. and you can get a 16\~24 TB HDD for like 200\~300$ for less demanding games that dont load or generate scenes often, and for storing data. 
+
+SSD / m.2 nvme notes:
+
+\- power it at least once every year to ensure no data loss (HDDs can store data for 10\~20 years without voltage, SSDs not so much)
+
+\- ensure it has DRAM. not only for better performance, but also against data loss with unexpected power outages
+
+you can look into PCIE 5 nvme's, but they might be very overpriced right now. Best would be to get a 1 or 2TB pcie 4 nvme with DRAM"
+23,Ryzen 7 9800x3d / RTX 5080 Build,Thanks for your help!
+24,VGA light on and no display,"Open the case and check that all of the components are still seated correctly.
+Some may have come loose during the move."
+25,Security Buying a Used PC,"If that's what you are worried about, just reinstall windows 11 as soon as you get the PC and wipe everything in the process.
+
+Just ask how they plan on transferring the license to you, it's tied to a Microsoft account by default these days."
+26,Security Buying a Used PC,"https://support.microsoft.com/en-au/windows/reset-your-pc-0ef73740-b927-549b-b7c9-e6f2b48d275e
+
+If you follow the instructions here, it will deactivate any software keylogger an ordinary person is likely to have."
+27,Security Buying a Used PC,"Just format the drive. Unless there's something at a lower level like the bios, you're fine. And if it is at a lower level then you're being targeted by a nation state."
+28,Security Buying a Used PC,you can reinstall windows 11
+29,Security Buying a Used PC,"Reinstall windows yourself, or swap out the drive entirely"
+30,Security Buying a Used PC,[removed]
+31,Security Buying a Used PC,"Clean install of Windows is always the best policy when acquiring a ""new to you"" PC 
+
+https://rtech.support/installations/install-11/"
+32,Security Buying a Used PC,If they're a professional they will probably send it with a local account installed not a Microsoft account.
+33,Security Buying a Used PC,"Hello, your comment has been removed. Please note the following from our [subreddit rules](https://www.reddit.com/r/buildapc/wiki/rules):
+
+**Rule 3 : No piracy or grey-market software keys**
+
+> No piracy or so-called ""grey-market"" software keys. This is includes suggesting, hinting, or in any way implying to someone that piracy or the use of these licenses is an option. If a key is  abnormally cheap (think $10-30), it is probably one of these, and is forbidden on /r/buildapc.
+
+
+
+---
+
+[^(Click here to message the moderators if you have any questions or concerns)](https://www\.reddit\.com/message/compose?to=%2Fr%2Fbuildapc&subject=Querying mod action for this comment&message=I'm writing to you about %5Bthis comment%5D%28https://www.reddit.com/r/buildapc/comments/1icfp99/-/m9q9jfh/%29.%0D%0D---%0D%0D)"
+34,Security Buying a Used PC,"I would hope so, but I'd have little hopes when buying anything off of facebook marketplace. :P"
+35,RATE MY PC!!i,"I never know what the heck people are talking about when they want us to ""rate"" their machines. 
+
+This was an upper mid-range build circa 2019. So.... a 6? Maybe a 7 with rice?"
+36,RATE MY PC!!i,Tree fiddy
+37,What do I need with a RTX 5090 and Ryzen 7 9800X3D ?,A second mortgage
+38,What do I need with a RTX 5090 and Ryzen 7 9800X3D ?,Money
+39,What do I need with a RTX 5090 and Ryzen 7 9800X3D ?,">Ryzen 7 9800X3D (unless this is not the best for gaming)
+
+It is dw.
+
+>Will I need watercooling ? I'm afraid the pump noise will be too loud, I've never seen watercooling IRL.
+
+I'd keep the noctua for now and see how CPU temps hold up.
+
+>I guess 64 Go will be enough (in 6000MHz CL30). I want to learn / use machine learning locally. Should I get more ?
+
+I think it should be enough but also, you are getting a 5090, if you are worried 64 isn't enough just get 2x48GB.
+
+
+>For the screen, I still hesitate between OLED & Mini-LED
+
+Personally I am a OLED fan boy so I'd get the OLED for gaming and a cheaper one as a second monitor.
+
+>should I get a single 1440p ultrawide or two 1440p monitors (similar to what I have today : a good 240 Hz one for ""gaming"" and the second one (cheap 60 Hz) just for discord or documentation when working).
+
+Personally I'd go for 2 monitors.
+
+>Is there compatibility issues with ultrawide screens ? Extra latency ?
+
+Maybe on some older games there may be compatibility issues. And no extra latency.
+
+>Samsung 980 1TB
+
+That's already a great drive I'd keep it for now.
+
+>Should I reuse these ""old SATA SSD"" ?
+
+Why not more storage is always nice.
+
+>I have no idea what motherboard should I get to support all of this.
+
+Any B650 with a decent VRM and enough expansion slots for you."
+40,What do I need with a RTX 5090 and Ryzen 7 9800X3D ?,"I will say that getting a 4K monitor is basically a must with a 5090, otherwise you're wasting it's horsepower. It only really stretches it legs at 4K, as it gets CPU bottlenecked at lower resolutions. 
+
+https://www.techpowerup.com/review/nvidia-geforce-rtx-5090-founders-edition/33.html
+
+For example, in TPUs benchmarks, who imo had the best and most expansive set of modern games in their testing, the 5090 is only 21% faster than the 4090 at 1440p but a more respectable 35% faster at 4K. Also note that it averages 147 fps in Native 4K raster; especially with DLSS 4, it's the first card that can really utilize those 4K 240 Hz OLEDs."
+41,What do I need with a RTX 5090 and Ryzen 7 9800X3D ?,"Water-cooling with an AIO for the 9800x3d is completely fine and the pump sound won't be hearable unless your AIO is trash. The fans are what will create the noise so just get one with good quiet fans and you'll be fine.
+
+OLED for sure on the screen is the nicest visual upgrade you can get in my opinion. Seeing true black and the vibrant colors, good refreshrate, and really makes it so you can't go back to other monitors. Amazing for gaming, movies/tv. Single ultra-wide or 2 monitors is literally just preference so you gotta figure that out. If you decide on two monitors, its definitely recommended to have 1 oled and 1 non-OLED though as OLEDs (eventually) burn in. Newer OLED panels are pretty good at preventing this though and last a long time with just some good diligence (turn your monitor off and let it refresh). With that set up if you play games on max settings and dlss/framegen you'll be prone to ghosting if you don't have a good monitor.
+
+You can just throw your old storage into the PC it doesn't effect the speed really, just put windows/games on your fastest drive. They don't hold each other back, but the slower drives will stay slow. If you use multiple M.2 nvme ssds then you should make sure to get a motherboard that doesn't share lanes and cut each others bandwidth. PCIE 5.0 16x slot for your gpu that doesn't share bandwidth too.
+
+Power supply just get a solid brand with good warranty and ratings online. I always try to buy one in person so it's easy to pick up and return if its faulty. Heard the 5090 will drain a lot of power so a 1k+ prob 1200 to be safe would be good. On the other hand the 9800x3d is amazing at undervolting and running efficient, so its a good pair. Make sure you get an 3.1 ATX/5.0 pcie compatible one so you can use the 12vh cable for the 5090. You definitely don't want to use the adapter. 
+
+Just look up a good cooler that fits the aesthetic you want, or buy thermalright one if you want the best budget to quality. I cool my 9800x3d with it completely fine for like 50$. The only thing you need to check is the size of the AIO if it fits the case."
+42,What do I need with a RTX 5090 and Ryzen 7 9800X3D ?,Asrock x870 steel legend would support all of that.
+43,What do I need with a RTX 5090 and Ryzen 7 9800X3D ?,"2 monitors is amazing.   I did it on a whim, had an old 1080p monitor and paired it w my new oled and I love it.  It's so convenient to have a browsing/streaming screen while you game.  I'm 2 monitors for life now."
+44,What do I need with a RTX 5090 and Ryzen 7 9800X3D ?,"Why stop at 9800x3d?
+
+Go big get yourself a Threadripper"
+45,What do I need with a RTX 5090 and Ryzen 7 9800X3D ?,"And a dedicated powerline from electricity provider with a thick copper cable to support his 1kW build. I might even propose a custom cooling, he may connect his 5090 to his house radiator water system and get rid of main heating system and just keep Cyberpunk open in 4K without DLSS for stable 70F all winter long."
+46,What do I need with a RTX 5090 and Ryzen 7 9800X3D ?,Anything less than 4K monitors for the 5090 and I will genuinely question if OP loves burning money.
+47,What do I need with a RTX 5090 and Ryzen 7 9800X3D ?,Purseripper you mean ?
+48,What do I need with a RTX 5090 and Ryzen 7 9800X3D ?,"Yes I hesitated between 5080 and 5090 but this is the opportunity to learn LLMs and have 200+ FPS at 1440p without DLSS (I tried it with my 2080 and it felt awful, everything is blurry)."
+49,Would you get a new M.2 SSD or use the old one you have?,"Use all of them, the 970 for the OS and games and the others as well, with Steam you can specify multiple drives to install games to without an issue. 
+
+I have 4 NVMe SSDs and 2 Sata and I have games installed on all of them."
+50,Would you get a new M.2 SSD or use the old one you have?,"I use both NVMe and SATA. NVMe for the OS and games large enough that loading times are a thing, and the old SATA SSDs for things where the performance difference is unnoticeable."
+51,Would you get a new M.2 SSD or use the old one you have?,"I would use the old drive.
+
+Also if i didn't i would not run 2 separate 2TB NVMEs. Get a single 4TB so that you get the additional performance. SSD get internally parallelized the larger they are. Something like RAID 0. Cost per GB goes down and one less NVME slot to use."
+52,Would you get a new M.2 SSD or use the old one you have?,"Windows/OS doesnt need 1TB for itself.
+Why wouldnt i use a perfectly working ssd?
+If i had another use for the old ssd then id be fine with the 3TB i have."
+53,Would you get a new M.2 SSD or use the old one you have?,Honestly I would have used the 970 EVO as the system drive and backed it up with a 4tb nvme drive for storage.  Then add another nvme later if it's needed.
+54,Would you get a new M.2 SSD or use the old one you have?,"I don't buy a new ssd unless it's 4tb, so I keep using the old ones until I replace one with a 4tb.  And the 8tbs have been coming down, saw one for $630 at Microcenter on sale, they hit $300 I'm in."
+55,Would you get a new M.2 SSD or use the old one you have?,"Keep in mind ALL NVMe drives have a MTBF rating, usually equates to 5yrs with the higher end brands. If you're like me you do 10yrs worth of data writing in 1yr.........but Samsung are cool, if its under warranty they just replace or upgrade you
+
+If you use that 4yr old NVMe you're not going to be able to make use of the latest NVMe tech and it may fail sooner than you want it to"
+56,Would you get a new M.2 SSD or use the old one you have?,Make yourself a nice fast external drive with that nvme. They sell the kits for 10 bucks and up.
+57,Would you get a new M.2 SSD or use the old one you have?,"I would use all of them. If I don't have room in my pc to fit another drive, I'll buy an enclosure and make it an external SSD."
+58,Would you get a new M.2 SSD or use the old one you have?,I always just have 1 2TB drive and then delete games as I beat them or stop playing them.
+59,Would you get a new M.2 SSD or use the old one you have?,"Use it. 
+
+I have a mix of old SSD/HDD still in use that date all the way back to 08 or 09 which include a 640gb WD Black that is till chugging along perfectly (confirmed by SMART test).  It's relegated as game storage mostly these days before the game I want to play is thrown onto the SSD but it's still in use for that easy task."
+60,Would you get a new M.2 SSD or use the old one you have?,I don't think I'm getting any sata drives for my new PC though. I think im fine with three M.2 drives.
+61,Would you get a new M.2 SSD or use the old one you have?,"Damn, was such a dumb mistake to buy a new 2TB nvme. I would've gone with a single 4TB drive since this is the storage I want anyways.
+
+I can't return the 2TB anymore. I'm thinking of using a new 1tb for windows, the 2tb for games, and my old 1tb for games media whatever. I'm just wondering if there are better ways to manage this."
+62,Would you get a new M.2 SSD or use the old one you have?,When I rethink this yes you're right but I already bought a new 2TB nvme lol. Not sure what would be the best idea now.
+63,Would you get a new M.2 SSD or use the old one you have?,"I wouldn't buy a new SATA SSD, but I think that there's no sense in not having storage I already own accessible."
+64,Would you get a new M.2 SSD or use the old one you have?,"Odds are the old drive still has better than 90% life left. Use Samsung Magician to check, update the firmware if necessary and use it.
+
+Just split Steam, GOG, Humble bundle, Epic, etc across 3 of them."
+65,Would you get a new M.2 SSD or use the old one you have?,Hindsight and all that.  Storage is one of those things that can generally be reused in new builds.
+66,upgrade from realtek to intel ethernet controller?,They are both 1GB NICs so there would be no benefits to performance unless your current Realtek NIC has issues.
+67,HTPC how does audio output work?,"I use GPU -> Receiver (eARC) -> Monitor for a 5.4.1 Atmos speaker setup
+
+The HDMI signal is digital.
+
+Also tried an optical output from the motherboard sound card, but it has enough capacity only to support 7.1 and is not able to feed Atmos signal."
+68,HTPC how does audio output work?,I use the optical cable from pc to receiver.
+69,HTPC how does audio output work?,It's correct.
+70,HTPC how does audio output work?,You're much better off with HDMI into your receiver
+71,HTPC how does audio output work?,thanks!
+72,Upgrading RAM,"Depends on what you do. Running 4 DIMMs will likely limit the speed you can run it at, but if all you do is gaming there is little benefit from 48 over 32GB."
+73,Upgrading RAM,If you are just gaming there is no advantage to having 48GB RAM and it may even reduce overall system performance by a couple percent.  Stick with your original plan and sell the old memory.  Did you already buy the new RAM?  Would it be possible to get new RAM faster than what you already had?
+74,Upgrading RAM,I mostly use it for gaming and don't really run any other highly complex programs so I think I'll just sell it. I did buy the new RAM already. It's DDR4 3600mhz CL-16
+75,"Crucial P3 1TB PCIe Gen3 3D NAND NVMe M.2 SSD, up to 3500MB/s - CT1000P3SSD8",No.
+76,Keep the psu or change it?,"Idk when you bought it, it was released 9 years ago. I would replace it, not worth saving money there"
+77,Keep the psu or change it?,"It isn't the one that will explode, but it's a pretty old model regardless. If you have the budget for a better and more modern 750W or 850W (look up reviews on sites like [Hardware Busters](http://hwbusters.com)), then I would recommend getting one."
+78,Keep the psu or change it?,I bought it 5 years ago.
+79,Keep the psu or change it?,"Are these ones any better?
+
+\- Corsair CX750 bronze => 80 euro
+
+\- be quiet! System Power 10 750W bronze =>80 euro
+
+\- Seasonic B12 BC-850 bronze => 80 euro
+
+\- Seasonic G12 GC-750 PSU gold =>90 euro"
+80,Keep the psu or change it?,"I think everything there is better than what you have currently. Of the four, I believe the be quiet one is the worst of the bunch (if it is the 230 volt version of that model) and everything else is pretty close, with the Seasonic units maybe being slightly better."
+81,Keep the psu or change it?,"Okay thanks, i bought the Seasonic G12 GC-750."
+82,Changing from MBR to GPT error,What command did you run exactly to convert the disk to EFI?
+83,Changing from MBR to GPT error,I did “mbr2gpt /validate” first. Which came back fine. Then I used “mbr2gpt /convert”. That’s when the error came up.
+84,Changing from MBR to GPT error,Were you running the commands from the Win10 OS or from the pre-boot environment from advanced options?
+85,Changing from MBR to GPT error,"It was the pre-boot environment from advanced, went into trouble shooting to get to it."
+86,Changing from MBR to GPT error,"I have ran into issues with certain commands not working properly if there is any issues with the NTFS file system, to fix that I would run a chdsk command on the OS drive during boot to verify the file system is not corrupted. 
+
+Also do you have more then one drive connected? 
+
+Also you can try running the command from Win10 directly from an admin cmd prompt ""mbr2gpt /convert /allowfullOS""."
+87,Changing from MBR to GPT error,As it goes I have two drives. The one that hold my operating system ( C:) and a ssd drive. I will give it a try with the admin cmd.
+88,Changing from MBR to GPT error,"Since you have two drives, you need to specify the drive in the command as well."
+89,Changing from MBR to GPT error,As in like typing disk 0 ?
+90,Changing from MBR to GPT error,"It looks like from the info on the MS [website](https://learn.microsoft.com/en-us/windows/deployment/mbr-to-gpt) if you don't specify a disk, then the system disk will be used.
+
+I would still run a chdsk on your OS drive to verify the file system is good."
+91,Changing from MBR to GPT error,Thanks I will try the things you have suggested
+92,Is a USB C Female to HDMI Male Adapter Technically Feasible?,"Nothing about the adapter sounds weird,
+
+It's directional so you plug that into your display and a type c to c cable into it from your laptop"
+93,Is a USB C Female to HDMI Male Adapter Technically Feasible?,"What is your source?  Are you sure the USB-C you're plugging into can output video?  I'm using [the reverse adapter](https://www.amazon.com/dp/B0BY3VS8LF) to convert Thunderbolt 4 USB-C on a dock into HDMI for my monitor and it works just fine.  Yours looks like it's also USB-C/Thunderbolt to HDMI, just as a dongle at the other end (rather than dock -> dongle -> cable -> monitor, you're doing dock -> cable -> dongle -> monitor)."
+94,Is a USB C Female to HDMI Male Adapter Technically Feasible?,"I don't see why it wouldn't be feasible. A lot of devices connect to a USB c dock and then output to HDMI.
+
+There are even USB c to HDMI cables. And USB c only monitors."
+95,Is a USB C Female to HDMI Male Adapter Technically Feasible?,Yes
+96,Is a USB C Female to HDMI Male Adapter Technically Feasible?,"Should work of you have a usb-c dp (display port, not charging) and a usb-c to usb-c cord."
+97,Is a USB C Female to HDMI Male Adapter Technically Feasible?,"Yes that is what I tried.
+
+I took a Mac Book Pro 2021, plugged in a new iPhone USB-C cable (also tried a long laptop USBC cable)
+Then plug that into the female end of the adapter 
+Then plug the hdmi male end of the adapter into my Dell 32 Inch 4k monitor (from 2022)
+It did not work, I tried several computers and a different dell monitor as well"
+98,Is a USB C Female to HDMI Male Adapter Technically Feasible?,"I took a Mac Book Pro 2021, plugged in a new iPhone USB-C cable (also tried a long laptop USBC cable) Then plug that into the female end of the adapter Then plug the hdmi male end of the adapter into my Dell 32 Inch 4k monitor (from 2022) It did not work, I tried several computers and a different dell monitor as well"
+99,Is a USB C Female to HDMI Male Adapter Technically Feasible?,"I was questioning the feasibility because there are very few options available on Amazon, and zero available on microcenter. Good to see these things do work. I’ll post again with my update tomorrow"
+100,Is a USB C Female to HDMI Male Adapter Technically Feasible?,"Gotta make sure the USB c cable and the port of the PC supports display output through USB C alt-mode or use a thunderbolt 4 port with a thunderbolt cable.
+
+Otherwise, just get a regular display cable and plug into a display adaptor"
+101,Is a USB C Female to HDMI Male Adapter Technically Feasible?,"You need a proper USBC cable capable of transmitting that sort of data, most USBC cables don't support video or high speed data"
+102,Is a USB C Female to HDMI Male Adapter Technically Feasible?,"IIRC, iPhone USB-C cables are USB 2.0, so they're not going to support thunderbolt or dp.  ""A long laptop USB-C cable"" says exactly nothing.  You need something [more like this](https://www.amazon.com/Plugable-Thunderbolt-Supports-Compatible-Certified/dp/B07R43LPCX) (no affiliation with that, just one of the fist hits on Amazon and a useful example of what to look for).
+
+IMHO, you're better off with the dongle I linked in my prior comment, since HDMI cables are more standardized/easier to understand than USB-C cables."
+103,Is a USB C Female to HDMI Male Adapter Technically Feasible?,"If that cable is the one that came with your phone, it won’t work.  The ones that come with iPhones are basically only intended for use as charging cables and only implement the power delivery and USB 2.0 data pins IIRC.  If you look inside the male end you can see that only 6 of the pins in each side are there.  
+
+The USB standards group absolutely dropped the ball on making sure that it’s easy to tell what a USB cable’s capabilities are."
+104,Is a USB C Female to HDMI Male Adapter Technically Feasible?,"damn okay. I guess USB-C 3.1 cables aren't really shipping standard with many products yet.. just looked around the house. You are right, even Iphone Pro cables are under cord mode A2795, USB 2.0"
+105,Is a USB C Female to HDMI Male Adapter Technically Feasible?,I'll buy one a report back.
+106,Is a USB C Female to HDMI Male Adapter Technically Feasible?,That's because they're not meant for much more than charging.
+107,Help please! Ez debug led cpu after cpu upgrade Ryzen 5600x,"Are you sure the bios update was successful?
+
+I would try with the 1600X again, see if that posts normally."
+108,Help please! Ez debug led cpu after cpu upgrade Ryzen 5600x,"Make sure something is plugged into CPU_FAN header. Some motherboards don't boot without something plugged into the CPU_fan header and this is usually caused by ""where to plug AIO?"" I am positive that some AM4 boards do require a CPU_FAN to post and if you do not have one, it gives a CPU light. 
+
+I don't think it'd result in an orange CPU light, but is the monitor plugged into the GPU and not the non-iGPU CPU? 
+
+Unsure if you tried the CMOS battery itself.. So when unplugged and after capacitors have discharged, remove the CMOS battery if you haven't and leave it out for 10 seconds. You should check the RAM again, resetting CMOS each time (I've seen AM4 RAM issues be really finnicky with CMOS, especially on ASUS boards). 
+
+An overly tightened CPU can cause issues. I've often heard it described as ""it should be finger tight, not hand tight."" I'd unscrew the cooler fully as it sounds like you plan on testing your old CPU anyways. With that gen of CPUs it should be safe to POST to BIOs with an unscrewed cooler and even without thermal paste, but I do recommend keeping the rad or AIO on top of the CPU. 
+
+From there, my question would be whether the 1600x still works. If it does, I'd learn towards BIOs related, a DOA CPU, ~~and~~ or *perhaps* verify RAM compatibility with the motherboard (((though it did work with the old CPU.)))"
+109,Help please! Ez debug led cpu after cpu upgrade Ryzen 5600x,"99% sure, i guess im gonna change cpu and see. 
+Also now im trying to run pc without cpu at all and its same issue. There is no beep code with and without cpu"
+110,Help please! Ez debug led cpu after cpu upgrade Ryzen 5600x,"so the 1600x doesn't work anymore at all, although i forgot to mention that when i updated the bios (on 1600x before doing anything inside pc) i launched pc correclty to windows and msi even gave some amd chipset update and some other drivers through windows"
+111,Help please! Ez debug led cpu after cpu upgrade Ryzen 5600x,"Cpu fan was connected, i also removed cpu cooler and still the same problem. Monitor was connected to normal gpu. I didnt remove whole battery yet. I put back the old cpu and pc doesnt work at all. Power button is not doing anything. Although my old cpu is literally sticked to old cpu cooler, so maybe it causes some problems. Gonna try to remove battery and play with the ram again tomorrow cause its 1am. Thanks for now"
+112,Help please! Ez debug led cpu after cpu upgrade Ryzen 5600x,"Alright, so  
+\- plugging CPU fan didn't change anything  
+\- monitor was plugged to normal GPU, now i tried unplugging GPU, it changes nothing  
+\- i remvoed CMOS battery, it changes nothing  
+\- i removed ram and cleared cmos with both 1600x and 5600x, in both cases only EZ debug CPU light is on now, first time with 5600x, (before i did anything else), when i removed both rams it gave both cpu and ram led  
+\- 1600x doesnt work anymore, it only lights ez debug cpu, no matter what"
+113,Help please! Ez debug led cpu after cpu upgrade Ryzen 5600x,"A PC will never POST without CPU or RAM, so that makes sense. :)"
+114,Help please! Ez debug led cpu after cpu upgrade Ryzen 5600x,Ok i unsticked the cpu from cooler and pc starts now but still same problem. Ez debug led cpu is white. Usb not working
+115,Pc Build Feedback,"Prinzipiell voll okay, ich stell dir mal meinen Vorschlag zusammen um ein paar Euronen zu sparen.
+
+Gibt's irgendwelche Games die du spezifisch viel zockst? Das Verhältnis von CPU zu GPU ist für die meisten Games etwas CPU-lastig, aber für manche Games würd's Sinn machen.
+
+edit: [https://de.pcpartpicker.com/list/yyLGxg](https://de.pcpartpicker.com/list/yyLGxg)  
+Das wär mein take mit besserer GPU. Wenn du mehr ausgeben \*willst\*, nimm doch den 9800x3D."
+116,Pc Build Feedback,"RAM is way too slow, get 6000cl30
+
+I'd get the Phantom Spirit non-EVO, it's quieter (I have both).
+
+Case seems like a strange selection. Rather expensive, white and not particularly performance focussed.
+
+I'd consider shifting some money around and see if you can get a faster GPU.
+
+PCpartpicker supports Germany/Austria, assuming you are in either of those. You can set your country top right."
+117,Pc Build Feedback,"Jo danke. Bei Gehäusen kenne ich mich nicht so sehr aus, weshalb eine Empfehlung super wäre und das es weiß ist liegt eher an der falschen Angabe die mein Fehler war, da ich das Schwarze holen würde. Und Spiele sind sehr verschieden bei mir, weshalb das schwer ist sich danach zu richten. Netzteil ist so angegeben, da ich selbst schon dieses habe."
+118,Pc Build Feedback,"[DeepCool CG530 4F ab € 70,90 (2025) | Preisvergleich Geizhals Österreich](https://geizhals.at/deepcool-cg530-4f-r-cg530-bkada4-g-1-a3388464.html)
+
+das wär mein Vorschlag für einen ähnlichen Look und mit 4 Lüftern vorverbaut, aber billiger"
+119,Pc Build Feedback,"Müsste da mal gucken, ob ich den gut bekomme da ich in Deutschland lebe."
+120,Pc Build Feedback,"geizhals oben links einfach auf Deutschland umstellen, denke schon dass zumindest mittelfristig was zu finden ist"
+121,Decent enough upgrade for VR?,Seems like a great plan. You might also want to consider 32GB of RAM.
+122,Decent enough upgrade for VR?,32 gb of ram would help so much
+123,Decent enough upgrade for VR?,"PCIe3.0 is totally fine, you’ll probably lose 1-3fps which is less than 1%.
+However RTX5080 is a questionable choice, seems not worth the price, maybe wait for a bit longer and don’t rush for the initial release imo."
+124,Help me decide whether or not to build this!,Looks good to me!
+125,How would you recommend upgrading my gfs pc?,"Budget and rough location.
+
+What games does she play?"
+126,How would you recommend upgrading my gfs pc?,"For gaming? I would upgrade ram to 32gb and switch to a 4060. No need to upgrade the power supply with Nvidia. The 6700xt will stress the current psu .No mechanical hard drives, right? Running windows 11?
+
+Your first line makes me nervous - running into some issues. What issues? If you are having hardware issues you need to sort those out first."
+127,How would you recommend upgrading my gfs pc?,b580?
+128,How would you recommend upgrading my gfs pc?,"That's a decent plan.
+
+6700 XT is a midrange GPU from 2021. I expect it'll be good for another 4 years, considering the GTX 1070 lasted till now. Get a good quality 650 watt PSU to go with it.
+
+When you replace the CPU and motherboard, you'll also want 32GB of DDR5 because that works well with new CPUs."
+129,How would you recommend upgrading my gfs pc?,"Great thank you, it's gpu issues but i'm not certain about them. Either way we will be upgrading her pc in time and whatever needs priority will come first. We were just uncertain about which parts first / have to be purchased together and you answered that, thank you!"
+130,How would you recommend upgrading my gfs pc?,"I misread your post on my phone thinking you had a 10th gen intel cpu. A 7th gen cpu is not windows 11 compatible so that pc is a dead end. Sell or part it out and move on, don't soak a lot of money into it. If your current gpu is failing, swap in a 4060 and game on it for a month to make sure it is stable. Then you can sell the 1070 for parts and figure out your next step.
+
+Either build or buy a new PC. You can sell or part out the old one with the confidence that everything is working, and you have a new 4060 to sell with the old or keep for a new build."
+131,GPU pushes 98% usage while gaming. Also when capping FPS in Warzone.,"Normal. 
+
+You WANT your GPU hitting as close to 100% as often as possible when gaming. 
+
+If you're streaming, then its even more reason why you want this to be happening. 
+
+The nvenc encoder is taking already rendered frames from the frame buffer to encode it into a more efficient format that makes it easier to stream HD quality without taking a huge hit in performance to the GPU. It does take SOME processing from the GPU die to do it - but how much is negligible, people used to say it lower gaming performance by as much as 30% but these days you're not likely to even notice a 5% reduction when streaming with the nvenc encoder. 
+
+
+You're chasing a solution to a problem that doesn't actually exist"
+132,GPU pushes 98% usage while gaming. Also when capping FPS in Warzone.,"I don't know much about OBS, but are you doing the encoding on the CPU or GPU?"
+133,GPU pushes 98% usage while gaming. Also when capping FPS in Warzone.,"Thanks a lot for your reply. I hear you, and just to clarify, I get around 150-170 streaming, and close to 300 when not streaming. 
+
+A few of my friends with a 4070 GPU still pushes more FPS than I do, with the exact same settings inside OBS, and they still get around 25-30% better performance than I do. 
+
+Normally, you want the GPU to use between 70 to 90% when gaming, rest should be useful for, for example streaming and the encoding? Or am I totally wrong with saying this?"
+134,GPU pushes 98% usage while gaming. Also when capping FPS in Warzone.,"The GPU. 
+
+Settings > Output > Encoder settings is set to NVIDIA NVENC."
+135,Ryzen 7 9800x3d / RTX 5080 Build,"This is a very powerful build that will slay most games. The only tweak I would make is to upgrade to the Samsung 990 Pro. At this tier, you might as well get the better SSD."
+136,Ryzen 7 9800x3d / RTX 5080 Build,"Most importantly, change the monitor to 4k. or at least a good 1440p monitor, let me explain;
+
+\- its a IPS screen with 1000:1 contrast, 3x lower than VA. It will feel like gaming on a potato, while the rest of ur build is iced out
+
+\- It cant go brigther than 400 cd/m2, not good enough for HDR (TVs have double that for full screen, and not just peaks)
+
+\- I recommended investing into a mini-led monitor, with 1000 \~ 2000 dimming zones for good HDR & contrast or the new qd oled gen 3 / gen 4
+
+if u dont want a expensive monitor for whatever reason, use a TV instead. theyre bright for HDR, they have built-in upscalers that monitors dont have (to turn 1080p into 4k near perfect), just not low latency for competitive gaming
+
+Id pick corsair RM 850 for power supply, but thermal take is good too
+
+Memory id pick corsair DDR5 2x16GB"
+137,Ryzen 7 9800x3d / RTX 5080 Build,I am considering a similar build.  Main hitch for me is when and where I will be able to find that GPU for that price.  Thoughts?
+138,Ryzen 7 9800x3d / RTX 5080 Build,"990 pro is pcie 4 unfortunately. not that it matters rn, but not ""future proof"""
+139,Ryzen 7 9800x3d / RTX 5080 Build,"Do you have any recommendations for good 27"" 1440p monitors? I'm definitely prioritizing latency and refresh rate over resolution but I did think the ones I chose were considered pretty good. Isn't IPS preferred over VA due to ghosting?"
+140,Ryzen 7 9800x3d / RTX 5080 Build,Check out the website/app hotstock. You can set up alerts that notify you the instant a certain product is purchasable at a certain price.
+141,Ryzen 7 9800x3d / RTX 5080 Build,"Yes, but the 990 Evo only uses 2 PCIe 5.0 lanes, which is the same interface speed. Regardless, the 990 Pro is faster."
+142,Ryzen 7 9800x3d / RTX 5080 Build,"Use this website [https://www.rtings.com/monitor/reviews/gigabyte/m27q-x](https://www.rtings.com/monitor/reviews/gigabyte/m27q-x)
+
+IPS & VA are still good options, but considered ""budget"" nowadays. IPS usually brighter & what you said earlier, but new VA models close the gap, sometimes even better. Look for recently released models, 2020+
+
+  
+The more expensive monitors would be mini-led & qd oled. I noticed you want a dual screen setup, i highly recommend you use ur old monitor for secondary & invest 1000$ into a single quality monitor instead. 
+
+You're gonna appreciate a monitor that has it all in the long run. a good investment if u plan to use it for 5\~10 years. QD-OLEDs are much better nowadays, but u have to properly configure a few settings against burn-in (as with any OLED tech). Basically, use LCD monitor for work, chat apps and such, and QD-OLED for gaming, movies, youtube etc.
+
+Here you can find good monitors, and look them up on [rtings.com](http://rtings.com) if u want more details:
+
+[https://www.displayninja.com/qd-oled-monitor-list/](https://www.displayninja.com/qd-oled-monitor-list/)
+
+[https://www.displayninja.com/mini-led-monitor-list/](https://www.displayninja.com/mini-led-monitor-list/)"
+143,Ryzen 7 9800x3d / RTX 5080 Build,"How much faster are we talking? And on a similar note, is m.2 nvme the best choice in general?"
+144,Ryzen 7 9800x3d / RTX 5080 Build,"Thanks for your help, I think I'm going to go with a ROG Strix OLED XG27ACDNG. Maybe two if I can convince the wife 😅"
+145,Ryzen 7 9800x3d / RTX 5080 Build,About 15% faster in random workloads. M.2 is definitely the way to go.
+146,Ryzen 7 9800x3d / RTX 5080 Build,"I noticed 990 evo is DRAM-less. Its best to get one that has DRAM, even if some call it a niche, you can read more about it.
+
+Yes. the newer models like 990 pro, have very high 4k random read / write compared to older models, which is important for gaming and other tasks too. Its best to run OS on m.2 nvme + demanding new games. and you can get a 16\~24 TB HDD for like 200\~300$ for less demanding games that dont load or generate scenes often, and for storing data. 
+
+SSD / m.2 nvme notes:
+
+\- power it at least once every year to ensure no data loss (HDDs can store data for 10\~20 years without voltage, SSDs not so much)
+
+\- ensure it has DRAM. not only for better performance, but also against data loss with unexpected power outages
+
+you can look into PCIE 5 nvme's, but they might be very overpriced right now. Best would be to get a 1 or 2TB pcie 4 nvme with DRAM"
+147,Ryzen 7 9800x3d / RTX 5080 Build,Thanks for your help!
+148,VGA light on and no display,"Open the case and check that all of the components are still seated correctly.
+Some may have come loose during the move."
+149,Security Buying a Used PC,"If that's what you are worried about, just reinstall windows 11 as soon as you get the PC and wipe everything in the process.
+
+Just ask how they plan on transferring the license to you, it's tied to a Microsoft account by default these days."
+150,Security Buying a Used PC,"https://support.microsoft.com/en-au/windows/reset-your-pc-0ef73740-b927-549b-b7c9-e6f2b48d275e
+
+If you follow the instructions here, it will deactivate any software keylogger an ordinary person is likely to have."
+151,Security Buying a Used PC,"Just format the drive. Unless there's something at a lower level like the bios, you're fine. And if it is at a lower level then you're being targeted by a nation state."
+152,Security Buying a Used PC,you can reinstall windows 11
+153,Security Buying a Used PC,"Reinstall windows yourself, or swap out the drive entirely"
+154,Security Buying a Used PC,[removed]
+155,Security Buying a Used PC,"Clean install of Windows is always the best policy when acquiring a ""new to you"" PC 
+
+https://rtech.support/installations/install-11/"
+156,Security Buying a Used PC,If they're a professional they will probably send it with a local account installed not a Microsoft account.
+157,Security Buying a Used PC,"Hello, your comment has been removed. Please note the following from our [subreddit rules](https://www.reddit.com/r/buildapc/wiki/rules):
+
+**Rule 3 : No piracy or grey-market software keys**
+
+> No piracy or so-called ""grey-market"" software keys. This is includes suggesting, hinting, or in any way implying to someone that piracy or the use of these licenses is an option. If a key is  abnormally cheap (think $10-30), it is probably one of these, and is forbidden on /r/buildapc.
+
+
+
+---
+
+[^(Click here to message the moderators if you have any questions or concerns)](https://www\.reddit\.com/message/compose?to=%2Fr%2Fbuildapc&subject=Querying mod action for this comment&message=I'm writing to you about %5Bthis comment%5D%28https://www.reddit.com/r/buildapc/comments/1icfp99/-/m9q9jfh/%29.%0D%0D---%0D%0D)"
+158,Security Buying a Used PC,"I would hope so, but I'd have little hopes when buying anything off of facebook marketplace. :P"
+159,RATE MY PC!!i,"I never know what the heck people are talking about when they want us to ""rate"" their machines. 
+
+This was an upper mid-range build circa 2019. So.... a 6? Maybe a 7 with rice?"
+160,RATE MY PC!!i,Tree fiddy
+161,What do I need with a RTX 5090 and Ryzen 7 9800X3D ?,A second mortgage
+162,What do I need with a RTX 5090 and Ryzen 7 9800X3D ?,Money
+163,What do I need with a RTX 5090 and Ryzen 7 9800X3D ?,">Ryzen 7 9800X3D (unless this is not the best for gaming)
+
+It is dw.
+
+>Will I need watercooling ? I'm afraid the pump noise will be too loud, I've never seen watercooling IRL.
+
+I'd keep the noctua for now and see how CPU temps hold up.
+
+>I guess 64 Go will be enough (in 6000MHz CL30). I want to learn / use machine learning locally. Should I get more ?
+
+I think it should be enough but also, you are getting a 5090, if you are worried 64 isn't enough just get 2x48GB.
+
+
+>For the screen, I still hesitate between OLED & Mini-LED
+
+Personally I am a OLED fan boy so I'd get the OLED for gaming and a cheaper one as a second monitor.
+
+>should I get a single 1440p ultrawide or two 1440p monitors (similar to what I have today : a good 240 Hz one for ""gaming"" and the second one (cheap 60 Hz) just for discord or documentation when working).
+
+Personally I'd go for 2 monitors.
+
+>Is there compatibility issues with ultrawide screens ? Extra latency ?
+
+Maybe on some older games there may be compatibility issues. And no extra latency.
+
+>Samsung 980 1TB
+
+That's already a great drive I'd keep it for now.
+
+>Should I reuse these ""old SATA SSD"" ?
+
+Why not more storage is always nice.
+
+>I have no idea what motherboard should I get to support all of this.
+
+Any B650 with a decent VRM and enough expansion slots for you."
+164,What do I need with a RTX 5090 and Ryzen 7 9800X3D ?,"I will say that getting a 4K monitor is basically a must with a 5090, otherwise you're wasting it's horsepower. It only really stretches it legs at 4K, as it gets CPU bottlenecked at lower resolutions. 
+
+https://www.techpowerup.com/review/nvidia-geforce-rtx-5090-founders-edition/33.html
+
+For example, in TPUs benchmarks, who imo had the best and most expansive set of modern games in their testing, the 5090 is only 21% faster than the 4090 at 1440p but a more respectable 35% faster at 4K. Also note that it averages 147 fps in Native 4K raster; especially with DLSS 4, it's the first card that can really utilize those 4K 240 Hz OLEDs."
+165,What do I need with a RTX 5090 and Ryzen 7 9800X3D ?,"Water-cooling with an AIO for the 9800x3d is completely fine and the pump sound won't be hearable unless your AIO is trash. The fans are what will create the noise so just get one with good quiet fans and you'll be fine.
+
+OLED for sure on the screen is the nicest visual upgrade you can get in my opinion. Seeing true black and the vibrant colors, good refreshrate, and really makes it so you can't go back to other monitors. Amazing for gaming, movies/tv. Single ultra-wide or 2 monitors is literally just preference so you gotta figure that out. If you decide on two monitors, its definitely recommended to have 1 oled and 1 non-OLED though as OLEDs (eventually) burn in. Newer OLED panels are pretty good at preventing this though and last a long time with just some good diligence (turn your monitor off and let it refresh). With that set up if you play games on max settings and dlss/framegen you'll be prone to ghosting if you don't have a good monitor.
+
+You can just throw your old storage into the PC it doesn't effect the speed really, just put windows/games on your fastest drive. They don't hold each other back, but the slower drives will stay slow. If you use multiple M.2 nvme ssds then you should make sure to get a motherboard that doesn't share lanes and cut each others bandwidth. PCIE 5.0 16x slot for your gpu that doesn't share bandwidth too.
+
+Power supply just get a solid brand with good warranty and ratings online. I always try to buy one in person so it's easy to pick up and return if its faulty. Heard the 5090 will drain a lot of power so a 1k+ prob 1200 to be safe would be good. On the other hand the 9800x3d is amazing at undervolting and running efficient, so its a good pair. Make sure you get an 3.1 ATX/5.0 pcie compatible one so you can use the 12vh cable for the 5090. You definitely don't want to use the adapter. 
+
+Just look up a good cooler that fits the aesthetic you want, or buy thermalright one if you want the best budget to quality. I cool my 9800x3d with it completely fine for like 50$. The only thing you need to check is the size of the AIO if it fits the case."
+166,What do I need with a RTX 5090 and Ryzen 7 9800X3D ?,Asrock x870 steel legend would support all of that.
+167,What do I need with a RTX 5090 and Ryzen 7 9800X3D ?,"2 monitors is amazing.   I did it on a whim, had an old 1080p monitor and paired it w my new oled and I love it.  It's so convenient to have a browsing/streaming screen while you game.  I'm 2 monitors for life now."
+168,What do I need with a RTX 5090 and Ryzen 7 9800X3D ?,"Why stop at 9800x3d?
+
+Go big get yourself a Threadripper"
+169,What do I need with a RTX 5090 and Ryzen 7 9800X3D ?,"And a dedicated powerline from electricity provider with a thick copper cable to support his 1kW build. I might even propose a custom cooling, he may connect his 5090 to his house radiator water system and get rid of main heating system and just keep Cyberpunk open in 4K without DLSS for stable 70F all winter long."
+170,What do I need with a RTX 5090 and Ryzen 7 9800X3D ?,Anything less than 4K monitors for the 5090 and I will genuinely question if OP loves burning money.
+171,What do I need with a RTX 5090 and Ryzen 7 9800X3D ?,Purseripper you mean ?
+172,What do I need with a RTX 5090 and Ryzen 7 9800X3D ?,"Yes I hesitated between 5080 and 5090 but this is the opportunity to learn LLMs and have 200+ FPS at 1440p without DLSS (I tried it with my 2080 and it felt awful, everything is blurry)."
+173,Would you get a new M.2 SSD or use the old one you have?,"Use all of them, the 970 for the OS and games and the others as well, with Steam you can specify multiple drives to install games to without an issue. 
+
+I have 4 NVMe SSDs and 2 Sata and I have games installed on all of them."
+174,Would you get a new M.2 SSD or use the old one you have?,"I use both NVMe and SATA. NVMe for the OS and games large enough that loading times are a thing, and the old SATA SSDs for things where the performance difference is unnoticeable."
+175,Would you get a new M.2 SSD or use the old one you have?,"I would use the old drive.
+
+Also if i didn't i would not run 2 separate 2TB NVMEs. Get a single 4TB so that you get the additional performance. SSD get internally parallelized the larger they are. Something like RAID 0. Cost per GB goes down and one less NVME slot to use."
+176,Would you get a new M.2 SSD or use the old one you have?,"Windows/OS doesnt need 1TB for itself.
+Why wouldnt i use a perfectly working ssd?
+If i had another use for the old ssd then id be fine with the 3TB i have."
+177,Would you get a new M.2 SSD or use the old one you have?,Honestly I would have used the 970 EVO as the system drive and backed it up with a 4tb nvme drive for storage.  Then add another nvme later if it's needed.
+178,Would you get a new M.2 SSD or use the old one you have?,"I don't buy a new ssd unless it's 4tb, so I keep using the old ones until I replace one with a 4tb.  And the 8tbs have been coming down, saw one for $630 at Microcenter on sale, they hit $300 I'm in."
+179,Would you get a new M.2 SSD or use the old one you have?,"Keep in mind ALL NVMe drives have a MTBF rating, usually equates to 5yrs with the higher end brands. If you're like me you do 10yrs worth of data writing in 1yr.........but Samsung are cool, if its under warranty they just replace or upgrade you
+
+If you use that 4yr old NVMe you're not going to be able to make use of the latest NVMe tech and it may fail sooner than you want it to"
+180,Would you get a new M.2 SSD or use the old one you have?,Make yourself a nice fast external drive with that nvme. They sell the kits for 10 bucks and up.
+181,Would you get a new M.2 SSD or use the old one you have?,"I would use all of them. If I don't have room in my pc to fit another drive, I'll buy an enclosure and make it an external SSD."
+182,Would you get a new M.2 SSD or use the old one you have?,I always just have 1 2TB drive and then delete games as I beat them or stop playing them.
+183,Would you get a new M.2 SSD or use the old one you have?,"Use it. 
+
+I have a mix of old SSD/HDD still in use that date all the way back to 08 or 09 which include a 640gb WD Black that is till chugging along perfectly (confirmed by SMART test).  It's relegated as game storage mostly these days before the game I want to play is thrown onto the SSD but it's still in use for that easy task."
+184,Would you get a new M.2 SSD or use the old one you have?,I don't think I'm getting any sata drives for my new PC though. I think im fine with three M.2 drives.
+185,Would you get a new M.2 SSD or use the old one you have?,"Damn, was such a dumb mistake to buy a new 2TB nvme. I would've gone with a single 4TB drive since this is the storage I want anyways.
+
+I can't return the 2TB anymore. I'm thinking of using a new 1tb for windows, the 2tb for games, and my old 1tb for games media whatever. I'm just wondering if there are better ways to manage this."
+186,Would you get a new M.2 SSD or use the old one you have?,When I rethink this yes you're right but I already bought a new 2TB nvme lol. Not sure what would be the best idea now.
+187,Would you get a new M.2 SSD or use the old one you have?,"I wouldn't buy a new SATA SSD, but I think that there's no sense in not having storage I already own accessible."
+188,Would you get a new M.2 SSD or use the old one you have?,"Odds are the old drive still has better than 90% life left. Use Samsung Magician to check, update the firmware if necessary and use it.
+
+Just split Steam, GOG, Humble bundle, Epic, etc across 3 of them."
+189,Would you get a new M.2 SSD or use the old one you have?,Hindsight and all that.  Storage is one of those things that can generally be reused in new builds.
+190,upgrade from realtek to intel ethernet controller?,They are both 1GB NICs so there would be no benefits to performance unless your current Realtek NIC has issues.
+191,HTPC how does audio output work?,"I use GPU -> Receiver (eARC) -> Monitor for a 5.4.1 Atmos speaker setup
+
+The HDMI signal is digital.
+
+Also tried an optical output from the motherboard sound card, but it has enough capacity only to support 7.1 and is not able to feed Atmos signal."
+192,HTPC how does audio output work?,I use the optical cable from pc to receiver.
+193,HTPC how does audio output work?,It's correct.
+194,HTPC how does audio output work?,You're much better off with HDMI into your receiver
+195,HTPC how does audio output work?,thanks!
+196,Upgrading RAM,"Depends on what you do. Running 4 DIMMs will likely limit the speed you can run it at, but if all you do is gaming there is little benefit from 48 over 32GB."
+197,Upgrading RAM,If you are just gaming there is no advantage to having 48GB RAM and it may even reduce overall system performance by a couple percent.  Stick with your original plan and sell the old memory.  Did you already buy the new RAM?  Would it be possible to get new RAM faster than what you already had?
+198,Upgrading RAM,I mostly use it for gaming and don't really run any other highly complex programs so I think I'll just sell it. I did buy the new RAM already. It's DDR4 3600mhz CL-16
+199,"Crucial P3 1TB PCIe Gen3 3D NAND NVMe M.2 SSD, up to 3500MB/s - CT1000P3SSD8",No.
+200,Keep the psu or change it?,"Idk when you bought it, it was released 9 years ago. I would replace it, not worth saving money there"
+201,Keep the psu or change it?,"It isn't the one that will explode, but it's a pretty old model regardless. If you have the budget for a better and more modern 750W or 850W (look up reviews on sites like [Hardware Busters](http://hwbusters.com)), then I would recommend getting one."
+202,Keep the psu or change it?,I bought it 5 years ago.
+203,Keep the psu or change it?,"Are these ones any better?
+
+\- Corsair CX750 bronze => 80 euro
+
+\- be quiet! System Power 10 750W bronze =>80 euro
+
+\- Seasonic B12 BC-850 bronze => 80 euro
+
+\- Seasonic G12 GC-750 PSU gold =>90 euro"
+204,Keep the psu or change it?,"I think everything there is better than what you have currently. Of the four, I believe the be quiet one is the worst of the bunch (if it is the 230 volt version of that model) and everything else is pretty close, with the Seasonic units maybe being slightly better."
+205,Keep the psu or change it?,"Okay thanks, i bought the Seasonic G12 GC-750."
+206,Changing from MBR to GPT error,What command did you run exactly to convert the disk to EFI?
+207,Changing from MBR to GPT error,I did “mbr2gpt /validate” first. Which came back fine. Then I used “mbr2gpt /convert”. That’s when the error came up.
+208,Changing from MBR to GPT error,Were you running the commands from the Win10 OS or from the pre-boot environment from advanced options?
+209,Changing from MBR to GPT error,"It was the pre-boot environment from advanced, went into trouble shooting to get to it."
+210,Changing from MBR to GPT error,"I have ran into issues with certain commands not working properly if there is any issues with the NTFS file system, to fix that I would run a chdsk command on the OS drive during boot to verify the file system is not corrupted. 
+
+Also do you have more then one drive connected? 
+
+Also you can try running the command from Win10 directly from an admin cmd prompt ""mbr2gpt /convert /allowfullOS""."
+211,Changing from MBR to GPT error,As it goes I have two drives. The one that hold my operating system ( C:) and a ssd drive. I will give it a try with the admin cmd.
+212,Changing from MBR to GPT error,"Since you have two drives, you need to specify the drive in the command as well."
+213,Changing from MBR to GPT error,As in like typing disk 0 ?
+214,Changing from MBR to GPT error,"It looks like from the info on the MS [website](https://learn.microsoft.com/en-us/windows/deployment/mbr-to-gpt) if you don't specify a disk, then the system disk will be used.
+
+I would still run a chdsk on your OS drive to verify the file system is good."
+215,Changing from MBR to GPT error,Thanks I will try the things you have suggested
+216,Is a USB C Female to HDMI Male Adapter Technically Feasible?,"Nothing about the adapter sounds weird,
+
+It's directional so you plug that into your display and a type c to c cable into it from your laptop"
+217,Is a USB C Female to HDMI Male Adapter Technically Feasible?,"What is your source?  Are you sure the USB-C you're plugging into can output video?  I'm using [the reverse adapter](https://www.amazon.com/dp/B0BY3VS8LF) to convert Thunderbolt 4 USB-C on a dock into HDMI for my monitor and it works just fine.  Yours looks like it's also USB-C/Thunderbolt to HDMI, just as a dongle at the other end (rather than dock -> dongle -> cable -> monitor, you're doing dock -> cable -> dongle -> monitor)."
+218,Is a USB C Female to HDMI Male Adapter Technically Feasible?,"I don't see why it wouldn't be feasible. A lot of devices connect to a USB c dock and then output to HDMI.
+
+There are even USB c to HDMI cables. And USB c only monitors."
+219,Is a USB C Female to HDMI Male Adapter Technically Feasible?,Yes
+220,Is a USB C Female to HDMI Male Adapter Technically Feasible?,"Should work of you have a usb-c dp (display port, not charging) and a usb-c to usb-c cord."
+221,Is a USB C Female to HDMI Male Adapter Technically Feasible?,"Yes that is what I tried.
+
+I took a Mac Book Pro 2021, plugged in a new iPhone USB-C cable (also tried a long laptop USBC cable)
+Then plug that into the female end of the adapter 
+Then plug the hdmi male end of the adapter into my Dell 32 Inch 4k monitor (from 2022)
+It did not work, I tried several computers and a different dell monitor as well"
+222,Is a USB C Female to HDMI Male Adapter Technically Feasible?,"I took a Mac Book Pro 2021, plugged in a new iPhone USB-C cable (also tried a long laptop USBC cable) Then plug that into the female end of the adapter Then plug the hdmi male end of the adapter into my Dell 32 Inch 4k monitor (from 2022) It did not work, I tried several computers and a different dell monitor as well"
+223,Is a USB C Female to HDMI Male Adapter Technically Feasible?,"I was questioning the feasibility because there are very few options available on Amazon, and zero available on microcenter. Good to see these things do work. I’ll post again with my update tomorrow"
+224,Is a USB C Female to HDMI Male Adapter Technically Feasible?,"Gotta make sure the USB c cable and the port of the PC supports display output through USB C alt-mode or use a thunderbolt 4 port with a thunderbolt cable.
+
+Otherwise, just get a regular display cable and plug into a display adaptor"
+225,Is a USB C Female to HDMI Male Adapter Technically Feasible?,"You need a proper USBC cable capable of transmitting that sort of data, most USBC cables don't support video or high speed data"
+226,Is a USB C Female to HDMI Male Adapter Technically Feasible?,"IIRC, iPhone USB-C cables are USB 2.0, so they're not going to support thunderbolt or dp.  ""A long laptop USB-C cable"" says exactly nothing.  You need something [more like this](https://www.amazon.com/Plugable-Thunderbolt-Supports-Compatible-Certified/dp/B07R43LPCX) (no affiliation with that, just one of the fist hits on Amazon and a useful example of what to look for).
+
+IMHO, you're better off with the dongle I linked in my prior comment, since HDMI cables are more standardized/easier to understand than USB-C cables."
+227,Is a USB C Female to HDMI Male Adapter Technically Feasible?,"If that cable is the one that came with your phone, it won’t work.  The ones that come with iPhones are basically only intended for use as charging cables and only implement the power delivery and USB 2.0 data pins IIRC.  If you look inside the male end you can see that only 6 of the pins in each side are there.  
+
+The USB standards group absolutely dropped the ball on making sure that it’s easy to tell what a USB cable’s capabilities are."
+228,Is a USB C Female to HDMI Male Adapter Technically Feasible?,"damn okay. I guess USB-C 3.1 cables aren't really shipping standard with many products yet.. just looked around the house. You are right, even Iphone Pro cables are under cord mode A2795, USB 2.0"
+229,Is a USB C Female to HDMI Male Adapter Technically Feasible?,I'll buy one a report back.
+230,Is a USB C Female to HDMI Male Adapter Technically Feasible?,That's because they're not meant for much more than charging.
+231,Help please! Ez debug led cpu after cpu upgrade Ryzen 5600x,"Are you sure the bios update was successful?
+
+I would try with the 1600X again, see if that posts normally."
+232,Help please! Ez debug led cpu after cpu upgrade Ryzen 5600x,"Make sure something is plugged into CPU_FAN header. Some motherboards don't boot without something plugged into the CPU_fan header and this is usually caused by ""where to plug AIO?"" I am positive that some AM4 boards do require a CPU_FAN to post and if you do not have one, it gives a CPU light. 
+
+I don't think it'd result in an orange CPU light, but is the monitor plugged into the GPU and not the non-iGPU CPU? 
+
+Unsure if you tried the CMOS battery itself.. So when unplugged and after capacitors have discharged, remove the CMOS battery if you haven't and leave it out for 10 seconds. You should check the RAM again, resetting CMOS each time (I've seen AM4 RAM issues be really finnicky with CMOS, especially on ASUS boards). 
+
+An overly tightened CPU can cause issues. I've often heard it described as ""it should be finger tight, not hand tight."" I'd unscrew the cooler fully as it sounds like you plan on testing your old CPU anyways. With that gen of CPUs it should be safe to POST to BIOs with an unscrewed cooler and even without thermal paste, but I do recommend keeping the rad or AIO on top of the CPU. 
+
+From there, my question would be whether the 1600x still works. If it does, I'd learn towards BIOs related, a DOA CPU, ~~and~~ or *perhaps* verify RAM compatibility with the motherboard (((though it did work with the old CPU.)))"
+233,Help please! Ez debug led cpu after cpu upgrade Ryzen 5600x,"99% sure, i guess im gonna change cpu and see. 
+Also now im trying to run pc without cpu at all and its same issue. There is no beep code with and without cpu"
+234,Help please! Ez debug led cpu after cpu upgrade Ryzen 5600x,"so the 1600x doesn't work anymore at all, although i forgot to mention that when i updated the bios (on 1600x before doing anything inside pc) i launched pc correclty to windows and msi even gave some amd chipset update and some other drivers through windows"
+235,Help please! Ez debug led cpu after cpu upgrade Ryzen 5600x,"Cpu fan was connected, i also removed cpu cooler and still the same problem. Monitor was connected to normal gpu. I didnt remove whole battery yet. I put back the old cpu and pc doesnt work at all. Power button is not doing anything. Although my old cpu is literally sticked to old cpu cooler, so maybe it causes some problems. Gonna try to remove battery and play with the ram again tomorrow cause its 1am. Thanks for now"
+236,Help please! Ez debug led cpu after cpu upgrade Ryzen 5600x,"Alright, so  
+\- plugging CPU fan didn't change anything  
+\- monitor was plugged to normal GPU, now i tried unplugging GPU, it changes nothing  
+\- i remvoed CMOS battery, it changes nothing  
+\- i removed ram and cleared cmos with both 1600x and 5600x, in both cases only EZ debug CPU light is on now, first time with 5600x, (before i did anything else), when i removed both rams it gave both cpu and ram led  
+\- 1600x doesnt work anymore, it only lights ez debug cpu, no matter what"
+237,Help please! Ez debug led cpu after cpu upgrade Ryzen 5600x,"A PC will never POST without CPU or RAM, so that makes sense. :)"
+238,Help please! Ez debug led cpu after cpu upgrade Ryzen 5600x,Ok i unsticked the cpu from cooler and pc starts now but still same problem. Ez debug led cpu is white. Usb not working
+239,Pc Build Feedback,"Prinzipiell voll okay, ich stell dir mal meinen Vorschlag zusammen um ein paar Euronen zu sparen.
+
+Gibt's irgendwelche Games die du spezifisch viel zockst? Das Verhältnis von CPU zu GPU ist für die meisten Games etwas CPU-lastig, aber für manche Games würd's Sinn machen.
+
+edit: [https://de.pcpartpicker.com/list/yyLGxg](https://de.pcpartpicker.com/list/yyLGxg)  
+Das wär mein take mit besserer GPU. Wenn du mehr ausgeben \*willst\*, nimm doch den 9800x3D."
+240,Pc Build Feedback,"RAM is way too slow, get 6000cl30
+
+I'd get the Phantom Spirit non-EVO, it's quieter (I have both).
+
+Case seems like a strange selection. Rather expensive, white and not particularly performance focussed.
+
+I'd consider shifting some money around and see if you can get a faster GPU.
+
+PCpartpicker supports Germany/Austria, assuming you are in either of those. You can set your country top right."
+241,Pc Build Feedback,"Jo danke. Bei Gehäusen kenne ich mich nicht so sehr aus, weshalb eine Empfehlung super wäre und das es weiß ist liegt eher an der falschen Angabe die mein Fehler war, da ich das Schwarze holen würde. Und Spiele sind sehr verschieden bei mir, weshalb das schwer ist sich danach zu richten. Netzteil ist so angegeben, da ich selbst schon dieses habe."
+242,Pc Build Feedback,"[DeepCool CG530 4F ab € 70,90 (2025) | Preisvergleich Geizhals Österreich](https://geizhals.at/deepcool-cg530-4f-r-cg530-bkada4-g-1-a3388464.html)
+
+das wär mein Vorschlag für einen ähnlichen Look und mit 4 Lüftern vorverbaut, aber billiger"
+243,Pc Build Feedback,"Müsste da mal gucken, ob ich den gut bekomme da ich in Deutschland lebe."
+244,Pc Build Feedback,"geizhals oben links einfach auf Deutschland umstellen, denke schon dass zumindest mittelfristig was zu finden ist"
+245,Decent enough upgrade for VR?,Seems like a great plan. You might also want to consider 32GB of RAM.
+246,Decent enough upgrade for VR?,32 gb of ram would help so much
+247,Decent enough upgrade for VR?,"PCIe3.0 is totally fine, you’ll probably lose 1-3fps which is less than 1%.
+However RTX5080 is a questionable choice, seems not worth the price, maybe wait for a bit longer and don’t rush for the initial release imo."
+248,Help me decide whether or not to build this!,Looks good to me!
+249,How would you recommend upgrading my gfs pc?,"Budget and rough location.
+
+What games does she play?"
+250,How would you recommend upgrading my gfs pc?,"For gaming? I would upgrade ram to 32gb and switch to a 4060. No need to upgrade the power supply with Nvidia. The 6700xt will stress the current psu .No mechanical hard drives, right? Running windows 11?
+
+Your first line makes me nervous - running into some issues. What issues? If you are having hardware issues you need to sort those out first."
+251,How would you recommend upgrading my gfs pc?,b580?
+252,How would you recommend upgrading my gfs pc?,"That's a decent plan.
+
+6700 XT is a midrange GPU from 2021. I expect it'll be good for another 4 years, considering the GTX 1070 lasted till now. Get a good quality 650 watt PSU to go with it.
+
+When you replace the CPU and motherboard, you'll also want 32GB of DDR5 because that works well with new CPUs."
+253,How would you recommend upgrading my gfs pc?,"Great thank you, it's gpu issues but i'm not certain about them. Either way we will be upgrading her pc in time and whatever needs priority will come first. We were just uncertain about which parts first / have to be purchased together and you answered that, thank you!"
+254,How would you recommend upgrading my gfs pc?,"I misread your post on my phone thinking you had a 10th gen intel cpu. A 7th gen cpu is not windows 11 compatible so that pc is a dead end. Sell or part it out and move on, don't soak a lot of money into it. If your current gpu is failing, swap in a 4060 and game on it for a month to make sure it is stable. Then you can sell the 1070 for parts and figure out your next step.
+
+Either build or buy a new PC. You can sell or part out the old one with the confidence that everything is working, and you have a new 4060 to sell with the old or keep for a new build."
+255,GPU pushes 98% usage while gaming. Also when capping FPS in Warzone.,"Normal. 
+
+You WANT your GPU hitting as close to 100% as often as possible when gaming. 
+
+If you're streaming, then its even more reason why you want this to be happening. 
+
+The nvenc encoder is taking already rendered frames from the frame buffer to encode it into a more efficient format that makes it easier to stream HD quality without taking a huge hit in performance to the GPU. It does take SOME processing from the GPU die to do it - but how much is negligible, people used to say it lower gaming performance by as much as 30% but these days you're not likely to even notice a 5% reduction when streaming with the nvenc encoder. 
+
+
+You're chasing a solution to a problem that doesn't actually exist"
+256,GPU pushes 98% usage while gaming. Also when capping FPS in Warzone.,"I don't know much about OBS, but are you doing the encoding on the CPU or GPU?"
+257,GPU pushes 98% usage while gaming. Also when capping FPS in Warzone.,"Thanks a lot for your reply. I hear you, and just to clarify, I get around 150-170 streaming, and close to 300 when not streaming. 
+
+A few of my friends with a 4070 GPU still pushes more FPS than I do, with the exact same settings inside OBS, and they still get around 25-30% better performance than I do. 
+
+Normally, you want the GPU to use between 70 to 90% when gaming, rest should be useful for, for example streaming and the encoding? Or am I totally wrong with saying this?"
+258,GPU pushes 98% usage while gaming. Also when capping FPS in Warzone.,"The GPU. 
+
+Settings > Output > Encoder settings is set to NVIDIA NVENC."
+259,Ryzen 7 9800x3d / RTX 5080 Build,"This is a very powerful build that will slay most games. The only tweak I would make is to upgrade to the Samsung 990 Pro. At this tier, you might as well get the better SSD."
+260,Ryzen 7 9800x3d / RTX 5080 Build,"Most importantly, change the monitor to 4k. or at least a good 1440p monitor, let me explain;
+
+\- its a IPS screen with 1000:1 contrast, 3x lower than VA. It will feel like gaming on a potato, while the rest of ur build is iced out
+
+\- It cant go brigther than 400 cd/m2, not good enough for HDR (TVs have double that for full screen, and not just peaks)
+
+\- I recommended investing into a mini-led monitor, with 1000 \~ 2000 dimming zones for good HDR & contrast or the new qd oled gen 3 / gen 4
+
+if u dont want a expensive monitor for whatever reason, use a TV instead. theyre bright for HDR, they have built-in upscalers that monitors dont have (to turn 1080p into 4k near perfect), just not low latency for competitive gaming
+
+Id pick corsair RM 850 for power supply, but thermal take is good too
+
+Memory id pick corsair DDR5 2x16GB"
+261,Ryzen 7 9800x3d / RTX 5080 Build,I am considering a similar build.  Main hitch for me is when and where I will be able to find that GPU for that price.  Thoughts?
+262,Ryzen 7 9800x3d / RTX 5080 Build,"990 pro is pcie 4 unfortunately. not that it matters rn, but not ""future proof"""
+263,Ryzen 7 9800x3d / RTX 5080 Build,"Do you have any recommendations for good 27"" 1440p monitors? I'm definitely prioritizing latency and refresh rate over resolution but I did think the ones I chose were considered pretty good. Isn't IPS preferred over VA due to ghosting?"
+264,Ryzen 7 9800x3d / RTX 5080 Build,Check out the website/app hotstock. You can set up alerts that notify you the instant a certain product is purchasable at a certain price.
+265,Ryzen 7 9800x3d / RTX 5080 Build,"Yes, but the 990 Evo only uses 2 PCIe 5.0 lanes, which is the same interface speed. Regardless, the 990 Pro is faster."
+266,Ryzen 7 9800x3d / RTX 5080 Build,"Use this website [https://www.rtings.com/monitor/reviews/gigabyte/m27q-x](https://www.rtings.com/monitor/reviews/gigabyte/m27q-x)
+
+IPS & VA are still good options, but considered ""budget"" nowadays. IPS usually brighter & what you said earlier, but new VA models close the gap, sometimes even better. Look for recently released models, 2020+
+
+  
+The more expensive monitors would be mini-led & qd oled. I noticed you want a dual screen setup, i highly recommend you use ur old monitor for secondary & invest 1000$ into a single quality monitor instead. 
+
+You're gonna appreciate a monitor that has it all in the long run. a good investment if u plan to use it for 5\~10 years. QD-OLEDs are much better nowadays, but u have to properly configure a few settings against burn-in (as with any OLED tech). Basically, use LCD monitor for work, chat apps and such, and QD-OLED for gaming, movies, youtube etc.
+
+Here you can find good monitors, and look them up on [rtings.com](http://rtings.com) if u want more details:
+
+[https://www.displayninja.com/qd-oled-monitor-list/](https://www.displayninja.com/qd-oled-monitor-list/)
+
+[https://www.displayninja.com/mini-led-monitor-list/](https://www.displayninja.com/mini-led-monitor-list/)"
+267,Ryzen 7 9800x3d / RTX 5080 Build,"How much faster are we talking? And on a similar note, is m.2 nvme the best choice in general?"
+268,Ryzen 7 9800x3d / RTX 5080 Build,"Thanks for your help, I think I'm going to go with a ROG Strix OLED XG27ACDNG. Maybe two if I can convince the wife 😅"
+269,Ryzen 7 9800x3d / RTX 5080 Build,About 15% faster in random workloads. M.2 is definitely the way to go.
+270,Ryzen 7 9800x3d / RTX 5080 Build,"I noticed 990 evo is DRAM-less. Its best to get one that has DRAM, even if some call it a niche, you can read more about it.
+
+Yes. the newer models like 990 pro, have very high 4k random read / write compared to older models, which is important for gaming and other tasks too. Its best to run OS on m.2 nvme + demanding new games. and you can get a 16\~24 TB HDD for like 200\~300$ for less demanding games that dont load or generate scenes often, and for storing data. 
+
+SSD / m.2 nvme notes:
+
+\- power it at least once every year to ensure no data loss (HDDs can store data for 10\~20 years without voltage, SSDs not so much)
+
+\- ensure it has DRAM. not only for better performance, but also against data loss with unexpected power outages
+
+you can look into PCIE 5 nvme's, but they might be very overpriced right now. Best would be to get a 1 or 2TB pcie 4 nvme with DRAM"
+271,Ryzen 7 9800x3d / RTX 5080 Build,Thanks for your help!
+272,VGA light on and no display,"Open the case and check that all of the components are still seated correctly.
+Some may have come loose during the move."
+273,Security Buying a Used PC,"If that's what you are worried about, just reinstall windows 11 as soon as you get the PC and wipe everything in the process.
+
+Just ask how they plan on transferring the license to you, it's tied to a Microsoft account by default these days."
+274,Security Buying a Used PC,"https://support.microsoft.com/en-au/windows/reset-your-pc-0ef73740-b927-549b-b7c9-e6f2b48d275e
+
+If you follow the instructions here, it will deactivate any software keylogger an ordinary person is likely to have."
+275,Security Buying a Used PC,"Just format the drive. Unless there's something at a lower level like the bios, you're fine. And if it is at a lower level then you're being targeted by a nation state."
+276,Security Buying a Used PC,you can reinstall windows 11
+277,Security Buying a Used PC,"Reinstall windows yourself, or swap out the drive entirely"
+278,Security Buying a Used PC,[removed]
+279,Security Buying a Used PC,"Clean install of Windows is always the best policy when acquiring a ""new to you"" PC 
+
+https://rtech.support/installations/install-11/"
+280,Security Buying a Used PC,If they're a professional they will probably send it with a local account installed not a Microsoft account.
+281,Security Buying a Used PC,"Hello, your comment has been removed. Please note the following from our [subreddit rules](https://www.reddit.com/r/buildapc/wiki/rules):
+
+**Rule 3 : No piracy or grey-market software keys**
+
+> No piracy or so-called ""grey-market"" software keys. This is includes suggesting, hinting, or in any way implying to someone that piracy or the use of these licenses is an option. If a key is  abnormally cheap (think $10-30), it is probably one of these, and is forbidden on /r/buildapc.
+
+
+
+---
+
+[^(Click here to message the moderators if you have any questions or concerns)](https://www\.reddit\.com/message/compose?to=%2Fr%2Fbuildapc&subject=Querying mod action for this comment&message=I'm writing to you about %5Bthis comment%5D%28https://www.reddit.com/r/buildapc/comments/1icfp99/-/m9q9jfh/%29.%0D%0D---%0D%0D)"
+282,Security Buying a Used PC,"I would hope so, but I'd have little hopes when buying anything off of facebook marketplace. :P"
+283,RATE MY PC!!i,"I never know what the heck people are talking about when they want us to ""rate"" their machines. 
+
+This was an upper mid-range build circa 2019. So.... a 6? Maybe a 7 with rice?"
+284,RATE MY PC!!i,Tree fiddy
+285,What do I need with a RTX 5090 and Ryzen 7 9800X3D ?,A second mortgage
+286,What do I need with a RTX 5090 and Ryzen 7 9800X3D ?,Money
+287,What do I need with a RTX 5090 and Ryzen 7 9800X3D ?,">Ryzen 7 9800X3D (unless this is not the best for gaming)
+
+It is dw.
+
+>Will I need watercooling ? I'm afraid the pump noise will be too loud, I've never seen watercooling IRL.
+
+I'd keep the noctua for now and see how CPU temps hold up.
+
+>I guess 64 Go will be enough (in 6000MHz CL30). I want to learn / use machine learning locally. Should I get more ?
+
+I think it should be enough but also, you are getting a 5090, if you are worried 64 isn't enough just get 2x48GB.
+
+
+>For the screen, I still hesitate between OLED & Mini-LED
+
+Personally I am a OLED fan boy so I'd get the OLED for gaming and a cheaper one as a second monitor.
+
+>should I get a single 1440p ultrawide or two 1440p monitors (similar to what I have today : a good 240 Hz one for ""gaming"" and the second one (cheap 60 Hz) just for discord or documentation when working).
+
+Personally I'd go for 2 monitors.
+
+>Is there compatibility issues with ultrawide screens ? Extra latency ?
+
+Maybe on some older games there may be compatibility issues. And no extra latency.
+
+>Samsung 980 1TB
+
+That's already a great drive I'd keep it for now.
+
+>Should I reuse these ""old SATA SSD"" ?
+
+Why not more storage is always nice.
+
+>I have no idea what motherboard should I get to support all of this.
+
+Any B650 with a decent VRM and enough expansion slots for you."
+288,What do I need with a RTX 5090 and Ryzen 7 9800X3D ?,"I will say that getting a 4K monitor is basically a must with a 5090, otherwise you're wasting it's horsepower. It only really stretches it legs at 4K, as it gets CPU bottlenecked at lower resolutions. 
+
+https://www.techpowerup.com/review/nvidia-geforce-rtx-5090-founders-edition/33.html
+
+For example, in TPUs benchmarks, who imo had the best and most expansive set of modern games in their testing, the 5090 is only 21% faster than the 4090 at 1440p but a more respectable 35% faster at 4K. Also note that it averages 147 fps in Native 4K raster; especially with DLSS 4, it's the first card that can really utilize those 4K 240 Hz OLEDs."
+289,What do I need with a RTX 5090 and Ryzen 7 9800X3D ?,"Water-cooling with an AIO for the 9800x3d is completely fine and the pump sound won't be hearable unless your AIO is trash. The fans are what will create the noise so just get one with good quiet fans and you'll be fine.
+
+OLED for sure on the screen is the nicest visual upgrade you can get in my opinion. Seeing true black and the vibrant colors, good refreshrate, and really makes it so you can't go back to other monitors. Amazing for gaming, movies/tv. Single ultra-wide or 2 monitors is literally just preference so you gotta figure that out. If you decide on two monitors, its definitely recommended to have 1 oled and 1 non-OLED though as OLEDs (eventually) burn in. Newer OLED panels are pretty good at preventing this though and last a long time with just some good diligence (turn your monitor off and let it refresh). With that set up if you play games on max settings and dlss/framegen you'll be prone to ghosting if you don't have a good monitor.
+
+You can just throw your old storage into the PC it doesn't effect the speed really, just put windows/games on your fastest drive. They don't hold each other back, but the slower drives will stay slow. If you use multiple M.2 nvme ssds then you should make sure to get a motherboard that doesn't share lanes and cut each others bandwidth. PCIE 5.0 16x slot for your gpu that doesn't share bandwidth too.
+
+Power supply just get a solid brand with good warranty and ratings online. I always try to buy one in person so it's easy to pick up and return if its faulty. Heard the 5090 will drain a lot of power so a 1k+ prob 1200 to be safe would be good. On the other hand the 9800x3d is amazing at undervolting and running efficient, so its a good pair. Make sure you get an 3.1 ATX/5.0 pcie compatible one so you can use the 12vh cable for the 5090. You definitely don't want to use the adapter. 
+
+Just look up a good cooler that fits the aesthetic you want, or buy thermalright one if you want the best budget to quality. I cool my 9800x3d with it completely fine for like 50$. The only thing you need to check is the size of the AIO if it fits the case."
+290,What do I need with a RTX 5090 and Ryzen 7 9800X3D ?,Asrock x870 steel legend would support all of that.
+291,What do I need with a RTX 5090 and Ryzen 7 9800X3D ?,"2 monitors is amazing.   I did it on a whim, had an old 1080p monitor and paired it w my new oled and I love it.  It's so convenient to have a browsing/streaming screen while you game.  I'm 2 monitors for life now."
+292,What do I need with a RTX 5090 and Ryzen 7 9800X3D ?,"Why stop at 9800x3d?
+
+Go big get yourself a Threadripper"
+293,What do I need with a RTX 5090 and Ryzen 7 9800X3D ?,"And a dedicated powerline from electricity provider with a thick copper cable to support his 1kW build. I might even propose a custom cooling, he may connect his 5090 to his house radiator water system and get rid of main heating system and just keep Cyberpunk open in 4K without DLSS for stable 70F all winter long."
+294,What do I need with a RTX 5090 and Ryzen 7 9800X3D ?,Anything less than 4K monitors for the 5090 and I will genuinely question if OP loves burning money.
+295,What do I need with a RTX 5090 and Ryzen 7 9800X3D ?,Purseripper you mean ?
+296,What do I need with a RTX 5090 and Ryzen 7 9800X3D ?,"Yes I hesitated between 5080 and 5090 but this is the opportunity to learn LLMs and have 200+ FPS at 1440p without DLSS (I tried it with my 2080 and it felt awful, everything is blurry)."
+297,Would you get a new M.2 SSD or use the old one you have?,"Use all of them, the 970 for the OS and games and the others as well, with Steam you can specify multiple drives to install games to without an issue. 
+
+I have 4 NVMe SSDs and 2 Sata and I have games installed on all of them."
+298,Would you get a new M.2 SSD or use the old one you have?,"I use both NVMe and SATA. NVMe for the OS and games large enough that loading times are a thing, and the old SATA SSDs for things where the performance difference is unnoticeable."
+299,Would you get a new M.2 SSD or use the old one you have?,"I would use the old drive.
+
+Also if i didn't i would not run 2 separate 2TB NVMEs. Get a single 4TB so that you get the additional performance. SSD get internally parallelized the larger they are. Something like RAID 0. Cost per GB goes down and one less NVME slot to use."
+300,Would you get a new M.2 SSD or use the old one you have?,"Windows/OS doesnt need 1TB for itself.
+Why wouldnt i use a perfectly working ssd?
+If i had another use for the old ssd then id be fine with the 3TB i have."
+301,Would you get a new M.2 SSD or use the old one you have?,Honestly I would have used the 970 EVO as the system drive and backed it up with a 4tb nvme drive for storage.  Then add another nvme later if it's needed.
+302,Would you get a new M.2 SSD or use the old one you have?,"I don't buy a new ssd unless it's 4tb, so I keep using the old ones until I replace one with a 4tb.  And the 8tbs have been coming down, saw one for $630 at Microcenter on sale, they hit $300 I'm in."
+303,Would you get a new M.2 SSD or use the old one you have?,"Keep in mind ALL NVMe drives have a MTBF rating, usually equates to 5yrs with the higher end brands. If you're like me you do 10yrs worth of data writing in 1yr.........but Samsung are cool, if its under warranty they just replace or upgrade you
+
+If you use that 4yr old NVMe you're not going to be able to make use of the latest NVMe tech and it may fail sooner than you want it to"
+304,Would you get a new M.2 SSD or use the old one you have?,Make yourself a nice fast external drive with that nvme. They sell the kits for 10 bucks and up.
+305,Would you get a new M.2 SSD or use the old one you have?,"I would use all of them. If I don't have room in my pc to fit another drive, I'll buy an enclosure and make it an external SSD."
+306,Would you get a new M.2 SSD or use the old one you have?,I always just have 1 2TB drive and then delete games as I beat them or stop playing them.
+307,Would you get a new M.2 SSD or use the old one you have?,"Use it. 
+
+I have a mix of old SSD/HDD still in use that date all the way back to 08 or 09 which include a 640gb WD Black that is till chugging along perfectly (confirmed by SMART test).  It's relegated as game storage mostly these days before the game I want to play is thrown onto the SSD but it's still in use for that easy task."
+308,Would you get a new M.2 SSD or use the old one you have?,I don't think I'm getting any sata drives for my new PC though. I think im fine with three M.2 drives.
+309,Would you get a new M.2 SSD or use the old one you have?,"Damn, was such a dumb mistake to buy a new 2TB nvme. I would've gone with a single 4TB drive since this is the storage I want anyways.
+
+I can't return the 2TB anymore. I'm thinking of using a new 1tb for windows, the 2tb for games, and my old 1tb for games media whatever. I'm just wondering if there are better ways to manage this."
+310,Would you get a new M.2 SSD or use the old one you have?,When I rethink this yes you're right but I already bought a new 2TB nvme lol. Not sure what would be the best idea now.
+311,Would you get a new M.2 SSD or use the old one you have?,"I wouldn't buy a new SATA SSD, but I think that there's no sense in not having storage I already own accessible."
+312,Would you get a new M.2 SSD or use the old one you have?,"Odds are the old drive still has better than 90% life left. Use Samsung Magician to check, update the firmware if necessary and use it.
+
+Just split Steam, GOG, Humble bundle, Epic, etc across 3 of them."
+313,Would you get a new M.2 SSD or use the old one you have?,Hindsight and all that.  Storage is one of those things that can generally be reused in new builds.
+314,upgrade from realtek to intel ethernet controller?,They are both 1GB NICs so there would be no benefits to performance unless your current Realtek NIC has issues.
+315,HTPC how does audio output work?,"I use GPU -> Receiver (eARC) -> Monitor for a 5.4.1 Atmos speaker setup
+
+The HDMI signal is digital.
+
+Also tried an optical output from the motherboard sound card, but it has enough capacity only to support 7.1 and is not able to feed Atmos signal."
+316,HTPC how does audio output work?,I use the optical cable from pc to receiver.
+317,HTPC how does audio output work?,It's correct.
+318,HTPC how does audio output work?,You're much better off with HDMI into your receiver
+319,HTPC how does audio output work?,thanks!
+320,Upgrading RAM,"Depends on what you do. Running 4 DIMMs will likely limit the speed you can run it at, but if all you do is gaming there is little benefit from 48 over 32GB."
+321,Upgrading RAM,If you are just gaming there is no advantage to having 48GB RAM and it may even reduce overall system performance by a couple percent.  Stick with your original plan and sell the old memory.  Did you already buy the new RAM?  Would it be possible to get new RAM faster than what you already had?
+322,Upgrading RAM,I mostly use it for gaming and don't really run any other highly complex programs so I think I'll just sell it. I did buy the new RAM already. It's DDR4 3600mhz CL-16
+323,"Crucial P3 1TB PCIe Gen3 3D NAND NVMe M.2 SSD, up to 3500MB/s - CT1000P3SSD8",No.
+324,Keep the psu or change it?,"Idk when you bought it, it was released 9 years ago. I would replace it, not worth saving money there"
+325,Keep the psu or change it?,"It isn't the one that will explode, but it's a pretty old model regardless. If you have the budget for a better and more modern 750W or 850W (look up reviews on sites like [Hardware Busters](http://hwbusters.com)), then I would recommend getting one."
+326,Keep the psu or change it?,I bought it 5 years ago.
+327,Keep the psu or change it?,"Are these ones any better?
+
+\- Corsair CX750 bronze => 80 euro
+
+\- be quiet! System Power 10 750W bronze =>80 euro
+
+\- Seasonic B12 BC-850 bronze => 80 euro
+
+\- Seasonic G12 GC-750 PSU gold =>90 euro"
+328,Keep the psu or change it?,"I think everything there is better than what you have currently. Of the four, I believe the be quiet one is the worst of the bunch (if it is the 230 volt version of that model) and everything else is pretty close, with the Seasonic units maybe being slightly better."
+329,Keep the psu or change it?,"Okay thanks, i bought the Seasonic G12 GC-750."
+330,Changing from MBR to GPT error,What command did you run exactly to convert the disk to EFI?
+331,Changing from MBR to GPT error,I did “mbr2gpt /validate” first. Which came back fine. Then I used “mbr2gpt /convert”. That’s when the error came up.
+332,Changing from MBR to GPT error,Were you running the commands from the Win10 OS or from the pre-boot environment from advanced options?
+333,Changing from MBR to GPT error,"It was the pre-boot environment from advanced, went into trouble shooting to get to it."
+334,Changing from MBR to GPT error,"I have ran into issues with certain commands not working properly if there is any issues with the NTFS file system, to fix that I would run a chdsk command on the OS drive during boot to verify the file system is not corrupted. 
+
+Also do you have more then one drive connected? 
+
+Also you can try running the command from Win10 directly from an admin cmd prompt ""mbr2gpt /convert /allowfullOS""."
+335,Changing from MBR to GPT error,As it goes I have two drives. The one that hold my operating system ( C:) and a ssd drive. I will give it a try with the admin cmd.
+336,Changing from MBR to GPT error,"Since you have two drives, you need to specify the drive in the command as well."
+337,Changing from MBR to GPT error,As in like typing disk 0 ?
+338,Changing from MBR to GPT error,"It looks like from the info on the MS [website](https://learn.microsoft.com/en-us/windows/deployment/mbr-to-gpt) if you don't specify a disk, then the system disk will be used.
+
+I would still run a chdsk on your OS drive to verify the file system is good."
+339,Changing from MBR to GPT error,Thanks I will try the things you have suggested
+340,Is a USB C Female to HDMI Male Adapter Technically Feasible?,"Nothing about the adapter sounds weird,
+
+It's directional so you plug that into your display and a type c to c cable into it from your laptop"
+341,Is a USB C Female to HDMI Male Adapter Technically Feasible?,"What is your source?  Are you sure the USB-C you're plugging into can output video?  I'm using [the reverse adapter](https://www.amazon.com/dp/B0BY3VS8LF) to convert Thunderbolt 4 USB-C on a dock into HDMI for my monitor and it works just fine.  Yours looks like it's also USB-C/Thunderbolt to HDMI, just as a dongle at the other end (rather than dock -> dongle -> cable -> monitor, you're doing dock -> cable -> dongle -> monitor)."
+342,Is a USB C Female to HDMI Male Adapter Technically Feasible?,"I don't see why it wouldn't be feasible. A lot of devices connect to a USB c dock and then output to HDMI.
+
+There are even USB c to HDMI cables. And USB c only monitors."
+343,Is a USB C Female to HDMI Male Adapter Technically Feasible?,Yes
+344,Is a USB C Female to HDMI Male Adapter Technically Feasible?,"Should work of you have a usb-c dp (display port, not charging) and a usb-c to usb-c cord."
+345,Is a USB C Female to HDMI Male Adapter Technically Feasible?,"Yes that is what I tried.
+
+I took a Mac Book Pro 2021, plugged in a new iPhone USB-C cable (also tried a long laptop USBC cable)
+Then plug that into the female end of the adapter 
+Then plug the hdmi male end of the adapter into my Dell 32 Inch 4k monitor (from 2022)
+It did not work, I tried several computers and a different dell monitor as well"
+346,Is a USB C Female to HDMI Male Adapter Technically Feasible?,"I took a Mac Book Pro 2021, plugged in a new iPhone USB-C cable (also tried a long laptop USBC cable) Then plug that into the female end of the adapter Then plug the hdmi male end of the adapter into my Dell 32 Inch 4k monitor (from 2022) It did not work, I tried several computers and a different dell monitor as well"
+347,Is a USB C Female to HDMI Male Adapter Technically Feasible?,"I was questioning the feasibility because there are very few options available on Amazon, and zero available on microcenter. Good to see these things do work. I’ll post again with my update tomorrow"
+348,Is a USB C Female to HDMI Male Adapter Technically Feasible?,"Gotta make sure the USB c cable and the port of the PC supports display output through USB C alt-mode or use a thunderbolt 4 port with a thunderbolt cable.
+
+Otherwise, just get a regular display cable and plug into a display adaptor"
+349,Is a USB C Female to HDMI Male Adapter Technically Feasible?,"You need a proper USBC cable capable of transmitting that sort of data, most USBC cables don't support video or high speed data"
+350,Is a USB C Female to HDMI Male Adapter Technically Feasible?,"IIRC, iPhone USB-C cables are USB 2.0, so they're not going to support thunderbolt or dp.  ""A long laptop USB-C cable"" says exactly nothing.  You need something [more like this](https://www.amazon.com/Plugable-Thunderbolt-Supports-Compatible-Certified/dp/B07R43LPCX) (no affiliation with that, just one of the fist hits on Amazon and a useful example of what to look for).
+
+IMHO, you're better off with the dongle I linked in my prior comment, since HDMI cables are more standardized/easier to understand than USB-C cables."
+351,Is a USB C Female to HDMI Male Adapter Technically Feasible?,"If that cable is the one that came with your phone, it won’t work.  The ones that come with iPhones are basically only intended for use as charging cables and only implement the power delivery and USB 2.0 data pins IIRC.  If you look inside the male end you can see that only 6 of the pins in each side are there.  
+
+The USB standards group absolutely dropped the ball on making sure that it’s easy to tell what a USB cable’s capabilities are."
+352,Is a USB C Female to HDMI Male Adapter Technically Feasible?,"damn okay. I guess USB-C 3.1 cables aren't really shipping standard with many products yet.. just looked around the house. You are right, even Iphone Pro cables are under cord mode A2795, USB 2.0"
+353,Is a USB C Female to HDMI Male Adapter Technically Feasible?,I'll buy one a report back.
+354,Is a USB C Female to HDMI Male Adapter Technically Feasible?,That's because they're not meant for much more than charging.
+355,Help please! Ez debug led cpu after cpu upgrade Ryzen 5600x,"Are you sure the bios update was successful?
+
+I would try with the 1600X again, see if that posts normally."
+356,Help please! Ez debug led cpu after cpu upgrade Ryzen 5600x,"Make sure something is plugged into CPU_FAN header. Some motherboards don't boot without something plugged into the CPU_fan header and this is usually caused by ""where to plug AIO?"" I am positive that some AM4 boards do require a CPU_FAN to post and if you do not have one, it gives a CPU light. 
+
+I don't think it'd result in an orange CPU light, but is the monitor plugged into the GPU and not the non-iGPU CPU? 
+
+Unsure if you tried the CMOS battery itself.. So when unplugged and after capacitors have discharged, remove the CMOS battery if you haven't and leave it out for 10 seconds. You should check the RAM again, resetting CMOS each time (I've seen AM4 RAM issues be really finnicky with CMOS, especially on ASUS boards). 
+
+An overly tightened CPU can cause issues. I've often heard it described as ""it should be finger tight, not hand tight."" I'd unscrew the cooler fully as it sounds like you plan on testing your old CPU anyways. With that gen of CPUs it should be safe to POST to BIOs with an unscrewed cooler and even without thermal paste, but I do recommend keeping the rad or AIO on top of the CPU. 
+
+From there, my question would be whether the 1600x still works. If it does, I'd learn towards BIOs related, a DOA CPU, ~~and~~ or *perhaps* verify RAM compatibility with the motherboard (((though it did work with the old CPU.)))"
+357,Help please! Ez debug led cpu after cpu upgrade Ryzen 5600x,"99% sure, i guess im gonna change cpu and see. 
+Also now im trying to run pc without cpu at all and its same issue. There is no beep code with and without cpu"
+358,Help please! Ez debug led cpu after cpu upgrade Ryzen 5600x,"so the 1600x doesn't work anymore at all, although i forgot to mention that when i updated the bios (on 1600x before doing anything inside pc) i launched pc correclty to windows and msi even gave some amd chipset update and some other drivers through windows"
+359,Help please! Ez debug led cpu after cpu upgrade Ryzen 5600x,"Cpu fan was connected, i also removed cpu cooler and still the same problem. Monitor was connected to normal gpu. I didnt remove whole battery yet. I put back the old cpu and pc doesnt work at all. Power button is not doing anything. Although my old cpu is literally sticked to old cpu cooler, so maybe it causes some problems. Gonna try to remove battery and play with the ram again tomorrow cause its 1am. Thanks for now"
+360,Help please! Ez debug led cpu after cpu upgrade Ryzen 5600x,"Alright, so  
+\- plugging CPU fan didn't change anything  
+\- monitor was plugged to normal GPU, now i tried unplugging GPU, it changes nothing  
+\- i remvoed CMOS battery, it changes nothing  
+\- i removed ram and cleared cmos with both 1600x and 5600x, in both cases only EZ debug CPU light is on now, first time with 5600x, (before i did anything else), when i removed both rams it gave both cpu and ram led  
+\- 1600x doesnt work anymore, it only lights ez debug cpu, no matter what"
+361,Help please! Ez debug led cpu after cpu upgrade Ryzen 5600x,"A PC will never POST without CPU or RAM, so that makes sense. :)"
+362,Help please! Ez debug led cpu after cpu upgrade Ryzen 5600x,Ok i unsticked the cpu from cooler and pc starts now but still same problem. Ez debug led cpu is white. Usb not working
+363,Pc Build Feedback,"Prinzipiell voll okay, ich stell dir mal meinen Vorschlag zusammen um ein paar Euronen zu sparen.
+
+Gibt's irgendwelche Games die du spezifisch viel zockst? Das Verhältnis von CPU zu GPU ist für die meisten Games etwas CPU-lastig, aber für manche Games würd's Sinn machen.
+
+edit: [https://de.pcpartpicker.com/list/yyLGxg](https://de.pcpartpicker.com/list/yyLGxg)  
+Das wär mein take mit besserer GPU. Wenn du mehr ausgeben \*willst\*, nimm doch den 9800x3D."
+364,Pc Build Feedback,"RAM is way too slow, get 6000cl30
+
+I'd get the Phantom Spirit non-EVO, it's quieter (I have both).
+
+Case seems like a strange selection. Rather expensive, white and not particularly performance focussed.
+
+I'd consider shifting some money around and see if you can get a faster GPU.
+
+PCpartpicker supports Germany/Austria, assuming you are in either of those. You can set your country top right."
+365,Pc Build Feedback,"Jo danke. Bei Gehäusen kenne ich mich nicht so sehr aus, weshalb eine Empfehlung super wäre und das es weiß ist liegt eher an der falschen Angabe die mein Fehler war, da ich das Schwarze holen würde. Und Spiele sind sehr verschieden bei mir, weshalb das schwer ist sich danach zu richten. Netzteil ist so angegeben, da ich selbst schon dieses habe."
+366,Pc Build Feedback,"[DeepCool CG530 4F ab € 70,90 (2025) | Preisvergleich Geizhals Österreich](https://geizhals.at/deepcool-cg530-4f-r-cg530-bkada4-g-1-a3388464.html)
+
+das wär mein Vorschlag für einen ähnlichen Look und mit 4 Lüftern vorverbaut, aber billiger"
+367,Pc Build Feedback,"Müsste da mal gucken, ob ich den gut bekomme da ich in Deutschland lebe."
+368,Pc Build Feedback,"geizhals oben links einfach auf Deutschland umstellen, denke schon dass zumindest mittelfristig was zu finden ist"
+369,Decent enough upgrade for VR?,Seems like a great plan. You might also want to consider 32GB of RAM.
+370,Decent enough upgrade for VR?,32 gb of ram would help so much
+371,Decent enough upgrade for VR?,"PCIe3.0 is totally fine, you’ll probably lose 1-3fps which is less than 1%.
+However RTX5080 is a questionable choice, seems not worth the price, maybe wait for a bit longer and don’t rush for the initial release imo."
