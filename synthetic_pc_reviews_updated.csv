@@ -1,0 +1,6 @@
+Processor,CPU Socket,Motherboard,Motherboard Socket,Chipset,Comment,Preprocessed Comment,Sentiment
+Intel Core i9-13900K,LGA1700,ASUS ROG CROSSHAIR X670E,AM5,X670E,The motherboard's VRMs get too hot under load.,the motherboards vrms get too hot under load,Negative
+Intel Core i7-12700K,LGA1700,MSI MPG Z690 EDGE,LGA1700,Z690,Needed a BIOS update for the CPU to work.,needed a bios update for the cpu to work,Neutral
+Intel Core i5-12600K,LGA1700,Gigabyte B660 AORUS PRO,LGA1700,B660,Lack of Wi-Fi support is disappointing.,lack of wifi support is disappointing,Negative
+Intel Core i7-12700K,LGA1700,ASUS ROG STRIX Z690-E,LGA1700,Z690,Great performance and solid build quality.,great performance and solid build quality,Positive
+Intel Core i5-12600K,LGA1700,MSI MAG B650 TOMAHAWK,AM5,B650,Runs smoothly without any issues. Great compatibility!,runs smoothly without any issues great compatibility,Positive
