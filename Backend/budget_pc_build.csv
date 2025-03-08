@@ -1,0 +1,21 @@
+id,name,cpu,gpu,ram,storage,psu,price
+1,Student PC,Intel Core i3-10100,Integrated,8GB DDR4,512GB SSD,400W,₹30,000
+2,Student PC,AMD Ryzen 3 3200G,Integrated,8GB DDR4,1TB HDD,400W,₹32,000
+3,Student PC,Intel Pentium Gold G6400,Integrated,8GB DDR4,256GB SSD,350W,₹28,000
+4,Student PC,AMD Athlon 3000G,Integrated,8GB DDR4,512GB HDD,350W,₹29,500
+5,Student PC,Intel Core i3-9100,Integrated,8GB DDR4,256GB SSD,300W,₹31,000
+6,Office Workstation,Intel Core i5-10400,Integrated,16GB DDR4,512GB NVMe SSD,450W,₹40,000
+7,Office Workstation,AMD Ryzen 5 3400G,Integrated,16GB DDR4,512GB SSD,450W,₹42,000
+8,Office Workstation,Intel Core i3-12100,Integrated,16GB DDR4,1TB HDD,400W,₹38,500
+9,Office Workstation,AMD Ryzen 3 3200G,Integrated,16GB DDR4,512GB NVMe SSD,400W,₹37,000
+10,Office Workstation,Intel Core i3-10105,Integrated,16GB DDR4,256GB SSD,400W,₹36,000
+11,Casual Home PC,Intel Core i5-10400,Integrated,8GB DDR4,512GB SSD,450W,₹35,500
+12,Casual Home PC,AMD Ryzen 5 5600G,Integrated,8GB DDR4,1TB HDD,450W,₹39,000
+13,Casual Home PC,Intel Core i3-10100F,NVIDIA GT 1030,8GB DDR4,256GB SSD,400W,₹40,000
+14,Casual Home PC,AMD Ryzen 3 3100,Integrated,8GB DDR4,512GB HDD,400W,₹34,500
+15,Casual Home PC,Intel Core i3-9100,Integrated,8GB DDR4,512GB SSD,350W,₹32,000
+16,Low-Cost Gaming PC,Intel Core i5-10400F,NVIDIA GTX 1650,16GB DDR4,512GB NVMe SSD,500W,₹48,000
+17,Low-Cost Gaming PC,AMD Ryzen 5 3600,NVIDIA GTX 1660 Super,16GB DDR4,1TB HDD + 256GB SSD,550W,₹50,000
+18,Low-Cost Gaming PC,Intel Core i3-12100F,NVIDIA GTX 1650 Super,16GB DDR4,512GB SSD,500W,₹46,500
+19,Low-Cost Gaming PC,AMD Ryzen 5 3400G,NVIDIA GTX 1650,16GB DDR4,1TB HDD,450W,₹47,000
+20,Low-Cost Gaming PC,Intel Core i5-9400F,NVIDIA GTX 1660,16GB DDR4,512GB NVMe SSD,500W,₹49,500

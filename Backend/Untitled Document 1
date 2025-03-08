@@ -1,0 +1,22 @@
+id,name,cpu,gpu,ram,storage,psu,price
+1,Entry-Level Office PC,Intel Core i3-10100,Integrated,8GB DDR4,256GB SSD,400W,₹25,000
+2,Basic Home PC,AMD Ryzen 3 3200G,Integrated,8GB DDR4,512GB HDD,400W,₹27,000
+3,Student PC Build,Intel Pentium Gold G6400,Integrated,8GB DDR4,256GB SSD,350W,₹23,500
+4,Home Office PC,AMD Athlon 3000G,Integrated,8GB DDR4,512GB HDD,350W,₹24,000
+5,Light Gaming PC,Intel Core i3-10100F,NVIDIA GT 1030,8GB DDR4,256GB SSD,400W,₹29,500
+6,Multimedia PC,AMD Ryzen 3 2200G,Integrated,8GB DDR4,1TB HDD,400W,₹28,000
+7,Compact Office PC,Intel Core i3-9100,Integrated,8GB DDR4,256GB SSD,300W,₹26,500
+8,Educational PC,AMD Ryzen 3 3200G,Integrated,8GB DDR4,256GB SSD,350W,₹27,500
+9,Entry-Level Developer PC,Intel Core i3-10100,Integrated,8GB DDR4,512GB HDD,400W,₹28,000
+10,Home Theater PC,AMD Athlon 3000G,Integrated,8GB DDR4,256GB SSD,300W,₹25,500
+11,Office Workstation,Intel Pentium Gold G6400,Integrated,8GB DDR4,512GB HDD,350W,₹24,500
+12,Basic Editing PC,AMD Ryzen 3 2200G,Integrated,8GB DDR4,256GB SSD,400W,₹27,000
+13,Entry-Level Programming PC,Intel Core i3-10100,Integrated,8GB DDR4,256GB SSD,400W,₹26,000
+14,Home Study PC,AMD Athlon 3000G,Integrated,8GB DDR4,1TB HDD,350W,₹25,000
+15,Light Multimedia PC,Intel Core i3-9100,Integrated,8GB DDR4,512GB HDD,300W,₹27,500
+16,Entry-Level Content Creation PC,AMD Ryzen 3 3200G,Integrated,8GB DDR4,256GB SSD,400W,₹28,500
+17,Basic Design PC,Intel Pentium Gold G6400,Integrated,8GB DDR4,256GB SSD,350W,₹23,000
+18,Home Learning PC,AMD Athlon 3000G,Integrated,8GB DDR4,512GB HDD,300W,₹24,500
+19,Entry-Level Streaming PC,Intel Core i3-10100F,NVIDIA GT 1030,8GB DDR4,256GB SSD,400W,₹29,000
+20,General Use PC,AMD Ryzen 3 2200G,Integrated,8GB DDR4,512GB HDD,400W,₹27,500
+
