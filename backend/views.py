@@ -1,26 +1,34 @@
 # views.py
 from django.http import JsonResponse
 from rest_framework.decorators import api_view
-from .models import PCBuild
+from .models import BudgetPCBuild, GamingPCBuild, WorkstationPCBuild, ProfessionalPCBuild, EnthusiastPCBuild
 import random
+
+CATEGORY_MAP = {
+    'budget': BudgetPCBuild,
+    'gaming': GamingPCBuild,
+    'workstation': WorkstationPCBuild,
+    'professional': ProfessionalPCBuild,
+    'enthusiast': EnthusiastPCBuild
+}
 
 @api_view(['GET'])
 def get_filtered_pc_builds(request):
-    """Retrieve a single random PC build filtered by price, CPU type, or storage type."""
-    price = request.GET.get('price')
-    cpu = request.GET.get('cpu')
-    storage = request.GET.get('storage')
+    """Retrieve a single random PC build filtered by category (table name), subcategory (PC build name), and price."""
+    category = request.GET.get('category')  # Table name
+    subcategory = request.GET.get('subcategory')  # Name inside the table
+    price = request.GET.get('price')  # Budget constraint
     
-    builds = PCBuild.objects.all()
+    if not category or category not in CATEGORY_MAP:
+        return JsonResponse({'error': 'Invalid or missing category'}, status=400)
+    
+    builds = CATEGORY_MAP[category].objects.all()
+    
+    if subcategory:
+        builds = builds.filter(name__icontains=subcategory)  # Matches subcategory (PC build name)
     
     if price:
-        builds = builds.filter(price__lte=price)  # Less than or equal to given price
-    
-    if cpu:
-        builds = builds.filter(cpu__icontains=cpu)  # Matches CPU type (case-insensitive)
-    
-    if storage:
-        builds = builds.filter(storage__icontains=storage)  # Matches storage type (case-insensitive)
+        builds = builds.filter(price__lte=price)  # Filters by price (budget constraint)
     
     builds_list = list(builds.values())
     
